@@ -1,0 +1,170 @@
+[
+  {
+    "id": "PAU_BIO_VALENCIANA_2025_1",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Biomoléculas"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [
+      "biomoléculas"
+    ],
+    "origen_historico": [
+      {
+        "comunidad": "Valenciana",
+        "anio": 2025,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "observaciones": ""
+    }
+  },
+  {
+    "id": "PAU_BIO_VALENCIANA_2025_2",
+    "bloque_oficial": {
+      "codigo": "B",
+      "nombre": "Genética molecular"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [
+      "expresión génica"
+    ],
+    "origen_historico": [
+      {
+        "comunidad": "Valenciana",
+        "anio": 2025,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "observaciones": ""
+    }
+  },
+  {
+    "id": "PAU_BIO_VALENCIANA_2025_3",
+    "bloque_oficial": {
+      "codigo": "B",
+      "nombre": "Genética molecular"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [
+      "expresión génica"
+    ],
+    "origen_historico": [
+      {
+        "comunidad": "Valenciana",
+        "anio": 2025,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "observaciones": ""
+    }
+  },
+  {
+    "id": "PAU_BIO_VALENCIANA_2025_4",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Biomoléculas"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [
+      "biomoléculas"
+    ],
+    "origen_historico": [
+      {
+        "comunidad": "Valenciana",
+        "anio": 2025,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "observaciones": ""
+    }
+  },
+  {
+    "id": "PAU_BIO_VALENCIANA_2025_5",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Biomoléculas"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [
+      "biomoléculas"
+    ],
+    "origen_historico": [
+      {
+        "comunidad": "Valenciana",
+        "anio": 2025,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "observaciones": ""
+    }
+  },
+  {
+    "id": "PAU_BIO_VALENCIANA_2025_6",
+    "bloque_oficial": {
+      "codigo": "F",
+      "nombre": "Inmunología"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [
+      "inmunología"
+    ],
+    "origen_historico": [
+      {
+        "comunidad": "Valenciana",
+        "anio": 2025,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "observaciones": ""
+    }
+  },
+  {
+    "id": "PAU_BIO_VALENCIANA_2025_7",
+    "bloque_oficial": {
+      "codigo": "F",
+      "nombre": "Inmunología"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [
+      "inmunología"
+    ],
+    "origen_historico": [
+      {
+        "comunidad": "Valenciana",
+        "anio": 2025,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "observaciones": ""
+    }
+  }
+]
