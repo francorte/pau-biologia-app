@@ -1,0 +1,86 @@
+[
+  {
+    "id": "PAU_Valenciana_2025_Pundefined",
+    "comunidad": "Valenciana",
+    "anio": 2025,
+    "convocatoria": "Ordinaria",
+    "bloques": [
+      "A"
+    ],
+    "tipo": "optativa",
+    "competencial": true,
+    "apartados": []
+  },
+  {
+    "id": "PAU_Valenciana_2025_Pundefined",
+    "comunidad": "Valenciana",
+    "anio": 2025,
+    "convocatoria": "Ordinaria",
+    "bloques": [
+      "B"
+    ],
+    "tipo": "optativa",
+    "competencial": true,
+    "apartados": []
+  },
+  {
+    "id": "PAU_Valenciana_2025_Pundefined",
+    "comunidad": "Valenciana",
+    "anio": 2025,
+    "convocatoria": "Ordinaria",
+    "bloques": [
+      "B"
+    ],
+    "tipo": "optativa",
+    "competencial": true,
+    "apartados": []
+  },
+  {
+    "id": "PAU_Valenciana_2025_Pundefined",
+    "comunidad": "Valenciana",
+    "anio": 2025,
+    "convocatoria": "Ordinaria",
+    "bloques": [
+      "A"
+    ],
+    "tipo": "optativa",
+    "competencial": true,
+    "apartados": []
+  },
+  {
+    "id": "PAU_Valenciana_2025_Pundefined",
+    "comunidad": "Valenciana",
+    "anio": 2025,
+    "convocatoria": "Ordinaria",
+    "bloques": [
+      "A"
+    ],
+    "tipo": "optativa",
+    "competencial": true,
+    "apartados": []
+  },
+  {
+    "id": "PAU_Valenciana_2025_Pundefined",
+    "comunidad": "Valenciana",
+    "anio": 2025,
+    "convocatoria": "Ordinaria",
+    "bloques": [
+      "F"
+    ],
+    "tipo": "optativa",
+    "competencial": true,
+    "apartados": []
+  },
+  {
+    "id": "PAU_Valenciana_2025_Pundefined",
+    "comunidad": "Valenciana",
+    "anio": 2025,
+    "convocatoria": "Ordinaria",
+    "bloques": [
+      "F"
+    ],
+    "tipo": "optativa",
+    "competencial": true,
+    "apartados": []
+  }
+]
