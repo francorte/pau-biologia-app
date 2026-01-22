@@ -1,0 +1,20 @@
+{
+  "asignatura": "Biología",
+  "comunidad": "Valenciana",
+  "anio": 2025,
+  "convocatoria": "Ordinaria",
+  "pdf": "Valenciana (Ordinaria de 2025).pdf",
+
+  "preguntas": [
+    { "id": "1",   "bloque": "A", "imagen": false },
+
+    { "id": "2.1", "bloque": "B", "imagen": true },
+    { "id": "2.2", "bloque": "B", "imagen": true },
+
+    { "id": "3.1", "bloque": "A", "imagen": false },
+    { "id": "3.2", "bloque": "A", "imagen": true },
+
+    { "id": "4.1", "bloque": "F", "imagen": false },
+    { "id": "4.2", "bloque": "F", "imagen": false }
+  ]
+}

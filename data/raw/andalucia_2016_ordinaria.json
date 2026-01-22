@@ -1,0 +1,27 @@
+{
+  "asignatura": "Biología",
+  "comunidad": "Andalucía",
+  "anio": 2016,
+  "convocatoria": "Ordinaria",
+  "pdf": "titular_junio_6 EXAMEN -BIOLOGIA.pdf",
+
+  "preguntas": [
+    { "id": "1.1", "bloque": "A", "imagen": false },
+    { "id": "1.2", "bloque": "A", "imagen": false },
+
+    { "id": "2.1", "bloque": "C", "imagen": false },
+    { "id": "2.2", "bloque": "C", "imagen": false },
+
+    { "id": "3.1", "bloque": "B", "imagen": false },
+    { "id": "3.2", "bloque": "B", "imagen": false },
+
+    { "id": "4.1", "bloque": "D", "imagen": false },
+    { "id": "4.2", "bloque": "D", "imagen": false },
+
+    { "id": "5.1", "bloque": "F", "imagen": false },
+    { "id": "5.2", "bloque": "F", "imagen": false },
+
+    { "id": "6.1", "bloque": "C", "imagen": true },
+    { "id": "6.2", "bloque": "C", "imagen": true }
+  ]
+}

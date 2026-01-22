@@ -1,0 +1,217 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* PAU Biología - Academic Design System
+   Clean, professional, biology-inspired palette
+   All colors in HSL format
+*/
+
+@layer base {
+  :root {
+    /* Biology-inspired green palette */
+    --background: 120 20% 98%;
+    --foreground: 150 30% 15%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 150 30% 15%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 150 30% 15%;
+
+    /* Primary: Deep forest green */
+    --primary: 150 40% 30%;
+    --primary-foreground: 0 0% 100%;
+
+    /* Secondary: Soft sage */
+    --secondary: 140 20% 92%;
+    --secondary-foreground: 150 30% 20%;
+
+    /* Muted: Light gray-green */
+    --muted: 140 15% 94%;
+    --muted-foreground: 150 10% 45%;
+
+    /* Accent: Vibrant teal for highlights */
+    --accent: 170 50% 40%;
+    --accent-foreground: 0 0% 100%;
+
+    /* Block colors for A-F */
+    --block-a: 200 70% 50%;
+    --block-b: 150 60% 40%;
+    --block-c: 45 90% 50%;
+    --block-d: 280 50% 55%;
+    --block-e: 0 70% 55%;
+    --block-f: 30 80% 50%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 140 20% 88%;
+    --input: 140 20% 88%;
+    --ring: 150 40% 30%;
+
+    --radius: 0.5rem;
+
+    /* Success for correct feedback */
+    --success: 142 70% 45%;
+    --success-foreground: 0 0% 100%;
+
+    /* Warning for pedagogical hints */
+    --warning: 45 90% 50%;
+    --warning-foreground: 45 100% 15%;
+
+    --sidebar-background: 140 15% 96%;
+    --sidebar-foreground: 150 30% 20%;
+    --sidebar-primary: 150 40% 30%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 140 20% 92%;
+    --sidebar-accent-foreground: 150 30% 20%;
+    --sidebar-border: 140 20% 88%;
+    --sidebar-ring: 150 40% 30%;
+  }
+
+  .dark {
+    --background: 150 20% 8%;
+    --foreground: 140 20% 95%;
+
+    --card: 150 20% 12%;
+    --card-foreground: 140 20% 95%;
+
+    --popover: 150 20% 12%;
+    --popover-foreground: 140 20% 95%;
+
+    --primary: 150 50% 50%;
+    --primary-foreground: 150 30% 10%;
+
+    --secondary: 150 20% 18%;
+    --secondary-foreground: 140 20% 95%;
+
+    --muted: 150 15% 20%;
+    --muted-foreground: 140 15% 65%;
+
+    --accent: 170 50% 45%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 62% 30%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 150 15% 20%;
+    --input: 150 15% 20%;
+    --ring: 150 50% 50%;
+
+    --success: 142 60% 40%;
+    --success-foreground: 0 0% 100%;
+
+    --warning: 45 80% 45%;
+    --warning-foreground: 45 100% 10%;
+
+    --sidebar-background: 150 20% 10%;
+    --sidebar-foreground: 140 20% 95%;
+    --sidebar-primary: 150 50% 50%;
+    --sidebar-primary-foreground: 150 30% 10%;
+    --sidebar-accent: 150 20% 15%;
+    --sidebar-accent-foreground: 140 20% 95%;
+    --sidebar-border: 150 15% 20%;
+    --sidebar-ring: 150 50% 50%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+
+  /* Typography for long-form reading */
+  .prose-academic {
+    @apply leading-relaxed text-foreground;
+    font-size: 1rem;
+    line-height: 1.75;
+  }
+
+  .prose-academic p {
+    @apply mb-4;
+  }
+
+  .prose-academic h1,
+  .prose-academic h2,
+  .prose-academic h3 {
+    @apply font-semibold tracking-tight text-foreground;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  /* Block color utilities */
+  .block-a { background-color: hsl(var(--block-a)); }
+  .block-b { background-color: hsl(var(--block-b)); }
+  .block-c { background-color: hsl(var(--block-c)); }
+  .block-d { background-color: hsl(var(--block-d)); }
+  .block-e { background-color: hsl(var(--block-e)); }
+  .block-f { background-color: hsl(var(--block-f)); }
+}
+
+/* Print styles */
+@media print {
+  /* Hide navigation and non-essential UI */
+  header,
+  nav,
+  .no-print,
+  button:not(.print-include) {
+    display: none !important;
+  }
+
+  /* Reset background colors for printing */
+  body {
+    background: white !important;
+    color: black !important;
+    font-size: 12pt;
+  }
+
+  /* Ensure content is visible */
+  .print-container {
+    display: block !important;
+    width: 100% !important;
+    max-width: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  /* Card styling for print */
+  .print-container [data-slot="card"] {
+    border: 1px solid #ddd !important;
+    box-shadow: none !important;
+    break-inside: avoid;
+    margin-bottom: 1rem;
+  }
+
+  /* Badge styling for print */
+  .print-container [data-slot="badge"] {
+    border: 1px solid #999 !important;
+    background: white !important;
+    color: black !important;
+  }
+
+  /* Scroll area should show all content */
+  .print-container [data-radix-scroll-area-viewport] {
+    max-height: none !important;
+    overflow: visible !important;
+  }
+
+  /* Page breaks */
+  .print-page-break {
+    page-break-before: always;
+  }
+
+  /* Hide scrollbars */
+  ::-webkit-scrollbar {
+    display: none;
+  }
+}
