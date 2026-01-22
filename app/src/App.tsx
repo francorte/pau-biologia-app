@@ -1,115 +1,133 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
+import preguntas from "./data/preguntas_app.json";
 
-type Bloque = "A" | "B" | "C" | "D" | "E" | "F";
+type Apartado = {
+  letra: string;
+  texto: string;
+  puntuacion?: number;
+};
 
 type Pregunta = {
   id: string;
+  bloque: string;
+  bloque_nombre: string;
   enunciado: string;
-  bloque_oficial: {
-    codigo: Bloque;
-    nombre: string;
-  };
+  apartados?: Apartado[];
 };
 
-const NUM_PREGUNTAS_SIMULACRO = 6;
-
-function mezclar<T>(array: T[]): T[] {
-  return [...array].sort(() => Math.random() - 0.5);
-}
+type Bloque = {
+  codigo: string;
+  nombre: string;
+  preguntas: Pregunta[];
+};
 
 function App() {
-  const [todasPreguntas, setTodasPreguntas] = useState<Pregunta[]>([]);
-  const [simulacro, setSimulacro] = useState<Pregunta[]>([]);
-  const [indice, setIndice] = useState(0);
-  const [finalizado, setFinalizado] = useState(false);
-  const [error, setError] = useState<string | null>(null);
+  // 1️⃣ Agrupar preguntas por bloque
+  const bloquesMap: Record<string, Bloque> = {};
 
-  useEffect(() => {
-    fetch("/andalucia_2016.json")
-      .then((res) => {
-        if (!res.ok) {
-          throw new Error("No se pudo cargar el JSON");
-        }
-        return res.json();
-      })
-      .then((data) => {
-        const array = Array.isArray(data)
-          ? data
-          : Object.values(data);
-
-        setTodasPreguntas(array as Pregunta[]);
-      })
-      .catch((err) => {
-        setError(err.message);
-      });
-  }, []);
-
-  const iniciarSimulacro = () => {
-    const seleccion = mezclar(todasPreguntas).slice(
-      0,
-      NUM_PREGUNTAS_SIMULACRO
-    );
-
-    setSimulacro(seleccion);
-    setIndice(0);
-    setFinalizado(false);
-  };
-
-  const siguiente = () => {
-    if (indice + 1 < simulacro.length) {
-      setIndice(indice + 1);
-    } else {
-      setFinalizado(true);
+  (preguntas as Pregunta[]).forEach((p) => {
+    if (!bloquesMap[p.bloque]) {
+      bloquesMap[p.bloque] = {
+        codigo: p.bloque,
+        nombre: p.bloque_nombre,
+        preguntas: [],
+      };
     }
-  };
+    bloquesMap[p.bloque].preguntas.push(p);
+  });
+
+  const bloques = Object.values(bloquesMap);
+
+  // 2️⃣ Estado del simulacro
+  const [indiceBloque, setIndiceBloque] = useState(0);
+  const [seleccionadas, setSeleccionadas] = useState<Record<string, string>>({});
+
+  const bloqueActual = bloques[indiceBloque];
+
+  if (!bloqueActual) {
+    return (
+      <div style={{ padding: "2rem" }}>
+        <h1>Simulacro PAU Biología – Andalucía 2025</h1>
+        <p>Simulacro finalizado.</p>
+      </div>
+    );
+  }
+
+  const preguntasBloque = bloqueActual.preguntas.slice(0, 2);
+  const seleccion = seleccionadas[bloqueActual.codigo];
+
+  function seleccionarPregunta(id: string) {
+    if (seleccion) return;
+    setSeleccionadas({
+      ...seleccionadas,
+      [bloqueActual.codigo]: id,
+    });
+  }
+
+  function siguienteBloque() {
+    if (!seleccion) return;
+    setIndiceBloque(indiceBloque + 1);
+  }
 
   return (
-    <div style={{ padding: "2rem", fontFamily: "sans-serif" }}>
+    <div style={{ padding: "2rem", maxWidth: "900px", margin: "0 auto" }}>
       <h1>Simulacro PAU Biología – Andalucía 2025</h1>
 
-      {error && <p style={{ color: "red" }}>Error: {error}</p>}
+      <h2>
+        Bloque {bloqueActual.codigo} · {bloqueActual.nombre}
+      </h2>
 
-      {todasPreguntas.length === 0 && !error && (
-        <p>Cargando preguntas…</p>
-      )}
+      <p>
+        <strong>
+          Elige UNA de las dos preguntas (obligatorio para continuar)
+        </strong>
+      </p>
 
-      {todasPreguntas.length > 0 && simulacro.length === 0 && (
-        <>
-          <p>Total de preguntas disponibles: {todasPreguntas.length}</p>
+      {preguntasBloque.map((p, idx) => {
+        const deshabilitada = seleccion && seleccion !== p.id;
+        const elegida = seleccion === p.id;
 
-          <button onClick={iniciarSimulacro}>
-            Iniciar simulacro PAU Andalucía 2025
-          </button>
-        </>
-      )}
+        return (
+          <div
+            key={p.id}
+            style={{
+              border: "1px solid #ccc",
+              padding: "1rem",
+              marginBottom: "1.5rem",
+              opacity: deshabilitada ? 0.5 : 1,
+              backgroundColor: elegida ? "#e6f7ff" : "white",
+            }}
+          >
+            <h3>Pregunta {idx + 1}</h3>
+            <p>{p.enunciado}</p>
 
-      {simulacro.length > 0 && !finalizado && (
-        <>
-          <p>
-            Pregunta {indice + 1} de {simulacro.length}
-          </p>
+            {p.apartados && p.apartados.length > 0 && (
+              <ul>
+                {p.apartados.map((a) => (
+                  <li key={a.letra}>
+                    <strong>{a.letra})</strong> {a.texto}
+                  </li>
+                ))}
+              </ul>
+            )}
 
-          <p>
-            <strong>
-              Bloque {simulacro[indice].bloque_oficial.codigo} –{" "}
-              {simulacro[indice].bloque_oficial.nombre}
-            </strong>
-          </p>
+            <button
+              onClick={() => seleccionarPregunta(p.id)}
+              disabled={!!seleccion}
+            >
+              Elegir esta pregunta
+            </button>
+          </div>
+        );
+      })}
 
-          <p>{simulacro[indice].enunciado}</p>
-
-          <button onClick={siguiente}>Siguiente</button>
-        </>
-      )}
-
-      {finalizado && (
-        <>
-          <h2>Simulacro finalizado</h2>
-          <button onClick={() => setSimulacro([])}>
-            Volver a empezar
-          </button>
-        </>
-      )}
+      <button
+        onClick={siguienteBloque}
+        disabled={!seleccion}
+        style={{ marginTop: "2rem", padding: "0.5rem 1rem" }}
+      >
+        Siguiente bloque
+      </button>
     </div>
   );
 }

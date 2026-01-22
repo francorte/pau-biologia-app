@@ -1,0 +1,285 @@
+[
+  {
+    "id": "PAU_AND_2025_Q1",
+    "bloque": "No especificado",
+    "enunciado": "(2 puntos) En relación con la figura adjunta, responda a las siguientes cuestiones:",
+    "apartados": [
+      {
+        "letra": "a",
+        "texto": "Cite y defina los dos procesos que tienen lugar en la expresión de la información genética [0,5]."
+      },
+      {
+        "letra": "b",
+        "texto": "¿Cómo se denomina la enzima marcada como E? [0,1]."
+      },
+      {
+        "letra": "c",
+        "texto": "Identifique los elementos de la figura señalados con los números del 1 al 5 [0,5]."
+      },
+      {
+        "letra": "d",
+        "texto": "Indique el nombre de los extremos del elemento 2 (señalados con a y b), y el de los extremos del elemento 5 (señalados con c y"
+      },
+      {
+        "letra": "d",
+        "texto": "[0,4]."
+      },
+      {
+        "letra": "e",
+        "texto": "La insulina humana se produce a gran escala mediante ingeniería genética en bacterias. Sin embargo, el ADN humano contiene intrones que no pueden ser eliminados por las bacterias. ¿Por qué el uso de la transcriptasa inversa, una enzima que sintetiza ADN utilizando como molde una molécula de ARN, permite que una bacteria exprese correctamente el gen de la insulina humana y sintetice la proteína funcional? [0,5]. EJERCICIO 2 (2 preguntas, de las que debe responder, a su elección, SOLAMENTE UNA)"
+      }
+    ]
+  },
+  {
+    "id": "PAU_AND_2025_Q2",
+    "bloque": "No especificado",
+    "enunciado": "(2 puntos) En relación con la imagen adjunta:",
+    "apartados": [
+      {
+        "letra": "a",
+        "texto": "Indique qué biomolécula está representada [0,1]."
+      },
+      {
+        "letra": "b",
+        "texto": "¿Qué tipo de estructuras, de dicha biomolécula, representan los números del 1 al 5? [0,5]."
+      },
+      {
+        "letra": "c",
+        "texto": "Indiqué qué tipo de enlace representa el número 6 y entre qué grupos funcionales se establece [0,3]."
+      },
+      {
+        "letra": "d",
+        "texto": "Indique tres tipos de enlaces que intervengan en la estabilización de la estructura representada con el número 4 [0,3]."
+      },
+      {
+        "letra": "e",
+        "texto": "Si esta biomolécula se somete a una temperatura superior a 100 ºC, ¿qué ocurrirá y qué consecuencia tendrá? [0,3]. f) Indique cinco localizaciones en una célula eucariota en las que se puedan encontrar las estructuras implicadas en la síntesis de esta biomolécula [0,5]. PRUEBA DE ACCESO A LA UNIVERSIDAD Y PRUEBA DE ADMISIÓN BIOLOGÍA ANDALUCÍA, CEUTA, MELILLA y CENTROS en MARRUECOS CURSO 2024-2025 Instrucciones:"
+      },
+      {
+        "letra": "a",
+        "texto": "Duración: 1 hora y 30 minutos."
+      },
+      {
+        "letra": "b",
+        "texto": "Todas las preguntas deben responderse en el papel entregado para la realización del examen y nunca en los folios que contienen los enunciados."
+      },
+      {
+        "letra": "c",
+        "texto": "Este examen consta de CINCO ejercicios. Debe responder a las preguntas que se indican en cada uno."
+      },
+      {
+        "letra": "d",
+        "texto": "La valoración de cada pregunta y sus apartados se indica entre corchetes."
+      },
+      {
+        "letra": "e",
+        "texto": "De acuerdo con el RD 534/2024, se valorará la corrección ortográfica de cada pregunta con un máximo del 10 por ciento de su calificación."
+      }
+    ]
+  },
+  {
+    "id": "PAU_AND_2025_Q3",
+    "bloque": "No especificado",
+    "enunciado": "(2 puntos) En relación con la figura adjunta:",
+    "apartados": [
+      {
+        "letra": "a",
+        "texto": "¿Qué molécula está representada en la imagen? [0,2]."
+      },
+      {
+        "letra": "b",
+        "texto": "¿Qué representan los números 1, 2, 3, 4 y el recuadro 5? [0,5]."
+      },
+      {
+        "letra": "c",
+        "texto": "Indique tres características que presente dicha molécula [0,6]."
+      },
+      {
+        "letra": "d",
+        "texto": "Indique el nombre del proceso de síntesis de esta molécula y el nombre de la enzima principal de dicho proceso [0,3]."
+      },
+      {
+        "letra": "e",
+        "texto": "Razone cómo afectaría a dicha enzima y a dicho proceso un incremento considerable de pH [0,4]. EJERCICIO 3 (2 preguntas, de las que debe responder, a su elección, SOLAMENTE UNA)"
+      }
+    ]
+  },
+  {
+    "id": "PAU_AND_2025_Q4",
+    "bloque": "No especificado",
+    "enunciado": "(2 puntos) Los glóbulos rojos mantienen un contenido salino interno del 0,9 %, lo que es crucial para su función. Su membrana plasmática, compuesta en un alto porcentaje por fosfolípidos regula el equilibrio osmótico con el plasma sanguíneo. Considerando estos aspectos, razone:",
+    "apartados": [
+      {
+        "letra": "a",
+        "texto": "¿Qué ocurriría con estas células si se inyectara a un individuo una solución salina que hiciera que la concentración final de sales en sangre fuese del 2,2 %? [0,5]."
+      },
+      {
+        "letra": "b",
+        "texto": "¿Y si la concentración final de sales en sangre fuese del 0,01%? [0,5]."
+      },
+      {
+        "letra": "c",
+        "texto": "Indique la composición de los fosfolípidos y explique por qué su estructura los hace idóneos para formar membranas biológicas [1]."
+      }
+    ]
+  },
+  {
+    "id": "PAU_AND_2025_Q5",
+    "bloque": "No especificado",
+    "enunciado": "(2 puntos) En una clase de biología aplicada, en la que se está estudiando la mitosis en células somáticas de un organismo animal, se observa que: A. Los cromosomas comienzan a desplazarse hacia extremos opuestos de la célula. B. Los cromosomas están condensados y se alinean en el centro de la célula. C. Dos núcleos nuevos comienzan a formarse.",
+    "apartados": [
+      {
+        "letra": "a",
+        "texto": "¿A qué fases de la mitosis corresponden A, B y C? [0,3]."
+      },
+      {
+        "letra": "b",
+        "texto": "¿Qué fase de la mitosis no se ha observado? [0,1]. Indique tres acontecimientos que ocurren en esta fase [0,6]."
+      },
+      {
+        "letra": "c",
+        "texto": "Indique la importancia biológica que tiene la mitosis para este organismo [0,5]."
+      },
+      {
+        "letra": "d",
+        "texto": "Sabiendo que la colchicina inhibe la polimerización de la tubulina, ¿qué efectos tendría en la mitosis de estas células? Razone la respuesta [0,5]. PRUEBA DE ACCESO A LA UNIVERSIDAD Y PRUEBA DE ADMISIÓN BIOLOGÍA ANDALUCÍA, CEUTA, MELILLA y CENTROS en MARRUECOS CURSO 2024-2025 Instrucciones:"
+      },
+      {
+        "letra": "a",
+        "texto": "Duración: 1 hora y 30 minutos."
+      },
+      {
+        "letra": "b",
+        "texto": "Todas las preguntas deben responderse en el papel entregado para la realización del examen y nunca en los folios que contienen los enunciados."
+      },
+      {
+        "letra": "c",
+        "texto": "Este examen consta de CINCO ejercicios. Debe responder a las preguntas que se indican en cada uno."
+      },
+      {
+        "letra": "d",
+        "texto": "La valoración de cada pregunta y sus apartados se indica entre corchetes."
+      },
+      {
+        "letra": "e",
+        "texto": "De acuerdo con el RD 534/2024, se valorará la corrección ortográfica de cada pregunta con un máximo del 10 por ciento de su calificación. EJERCICIO 4 (2 preguntas, de las que debe responder, a su elección, SOLAMENTE UNA)"
+      }
+    ]
+  },
+  {
+    "id": "PAU_AND_2025_Q6",
+    "bloque": "No especificado",
+    "enunciado": "(2 puntos) Ulani se mudó a España desde una isla remota sin saber que era alérgica a las abejas. No pasó mucho tiempo antes de que le picase una abeja, lo que le produjo una reacción inflamatoria local que desconcertó bastante a la isleña. Sus amigos intentaron explicarle en qué consistía la respuesta alérgica utilizando la siguiente imagen.",
+    "apartados": [
+      {
+        "letra": "a",
+        "texto": "¿Qué tipo de inmunoglobulinas, señaladas con el número 1, son específicas de la respuesta alérgica? [0,2] y ¿cuál es la naturaleza química de las inmunoglobulinas? [0,2]. Describa su estructura molecular [0,2]."
+      },
+      {
+        "letra": "b",
+        "texto": "¿Cómo se denominan las diferentes sustancias, como la señalada con el número 2, que desencadenan una respuesta alérgica? [0,2]."
+      },
+      {
+        "letra": "c",
+        "texto": "Indique el nombre de la célula de la imagen y el nombre de una sustancia liberada por dicha célula como consecuencia de la respuesta alérgica [0,4]."
+      },
+      {
+        "letra": "d",
+        "texto": "¿Qué tipo de células producen las inmunoglobulinas? [0,2]. Nombre dos orgánulos o estructuras de dichas células implicados en la síntesis y secreción de inmunoglobulinas, e indique cómo se denomina, en general, el proceso por el que la célula libera dichas sustancias al exterior [0,6]."
+      }
+    ]
+  },
+  {
+    "id": "PAU_AND_2025_Q7",
+    "bloque": "No especificado",
+    "enunciado": "(2 puntos) En relación con la imagen adjunta:",
+    "apartados": [
+      {
+        "letra": "a",
+        "texto": "¿Qué tipos de inmunidad se representan con las letras A y B? [0,3]."
+      },
+      {
+        "letra": "b",
+        "texto": "¿Qué tipos de respuestas inmunitarias se representan con las letras C y D? [0,2]."
+      },
+      {
+        "letra": "c",
+        "texto": "Nombre las moléculas o células señaladas con los números del 1 al 5 [0,5]."
+      },
+      {
+        "letra": "d",
+        "texto": "Cite dos orgánulos o estructuras celulares que estén implicados en la producción de la molécula señalada con el número 3 [0,3]. Indique una función de cada uno de estos orgánulos en relación con la síntesis de esta molécula [0,2]."
+      },
+      {
+        "letra": "e",
+        "texto": "Explique razonadamente cómo se relacionan los procesos de transcripción y traducción en la generación de una respuesta inmunitaria [0,5]. PRUEBA DE ACCESO A LA UNIVERSIDAD Y PRUEBA DE ADMISIÓN BIOLOGÍA ANDALUCÍA, CEUTA, MELILLA y CENTROS en MARRUECOS CURSO 2024-2025 Instrucciones:"
+      },
+      {
+        "letra": "a",
+        "texto": "Duración: 1 hora y 30 minutos."
+      },
+      {
+        "letra": "b",
+        "texto": "Todas las preguntas deben responderse en el papel entregado para la realización del examen y nunca en los folios que contienen los enunciados."
+      },
+      {
+        "letra": "c",
+        "texto": "Este examen consta de CINCO ejercicios. Debe responder a las preguntas que se indican en cada uno."
+      },
+      {
+        "letra": "d",
+        "texto": "La valoración de cada pregunta y sus apartados se indica entre corchetes."
+      },
+      {
+        "letra": "e",
+        "texto": "De acuerdo con el RD 534/2024, se valorará la corrección ortográfica de cada pregunta con un máximo del 10 por ciento de su calificación. EJERCICIO 5 (2 preguntas, de las que debe responder, a su elección, SOLAMENTE UNA)"
+      }
+    ]
+  },
+  {
+    "id": "PAU_AND_2025_Q8",
+    "bloque": "No especificado",
+    "enunciado": "(2 puntos) La industria alimentaria aprovecha diversos procesos de fermentación para la producción de alimentos y bebidas como el yogur o el pan.",
+    "apartados": [
+      {
+        "letra": "a",
+        "texto": "¿Qué tipo de fermentación se utiliza en la producción de yogur? [0,2]. ¿Qué microorganismos están involucrados en su producción? [0,2]."
+      },
+      {
+        "letra": "b",
+        "texto": "¿Qué tipo de fermentación se utiliza en la producción de pan? [0,2]. ¿Qué microorganismos están implicados en su producción? [0,2]. ¿Qué gas se produce durante este proceso y qué función cumple en la elaboración del pan? [0,3]. Indique qué otro producto final se obtiene en la fermentación y razone si está presente o no en el pan [0,3]."
+      },
+      {
+        "letra": "c",
+        "texto": "Indique tres características diferenciadoras entre los microorganismos que producen el yogur y los que producen el pan [0,3]."
+      },
+      {
+        "letra": "d",
+        "texto": "La producción de pan y yogur depende del correcto funcionamiento de las enzimas que intervienen en estos procesos. Razone cómo afectaría a la actividad de estas enzimas un aumento o descenso moderado de la temperatura [0,3]."
+      }
+    ]
+  },
+  {
+    "id": "PAU_AND_2025_Q9",
+    "bloque": "No especificado",
+    "enunciado": "(2 puntos) Con relación a la beta-oxidación de los ácidos grasos:",
+    "apartados": [
+      {
+        "letra": "a",
+        "texto": "Indique la localización intracelular de dicho proceso en una célula eucariota [0,2]."
+      },
+      {
+        "letra": "b",
+        "texto": "En dicho proceso, ¿de qué tipo de molécula orgánica se parte y qué moléculas se obtienen como productos finales? [0,8]."
+      },
+      {
+        "letra": "c",
+        "texto": "Indique el nombre de una ruta en la que se puedan incorporar cada uno de los productos finales con objeto de obtener energía [0,6]."
+      },
+      {
+        "letra": "d",
+        "texto": "Nombre cuatro componentes, diferentes de los relacionados con la beta-oxidación de los ácidos grasos, que se encuentren en la misma localización intracelular [0,4]."
+      }
+    ]
+  }
+]

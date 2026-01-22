@@ -1,0 +1,441 @@
+[
+  {
+    "id": "PAU_BIO_AND_2025_1",
+    "comunidad": "Andalucía",
+    "anio": 2025,
+    "convocatoria": "Ordinaria",
+    "numero": "1",
+    "bloque": "No especificado",
+    "tipo": "desarrollo",
+    "enunciado": "En relación con la figura adjunta, responda a las siguientes cuestiones:",
+    "apartados": [
+      {
+        "letra": "a",
+        "texto": "Cite y defina los dos procesos que tienen lugar en la expresión de la información\ngenética .",
+        "puntuacion": 0.5
+      },
+      {
+        "letra": "b",
+        "texto": "¿Cómo se denomina la enzima marcada como E? .",
+        "puntuacion": 0.1
+      },
+      {
+        "letra": "c",
+        "texto": "Identifique los elementos de la figura señalados con los números del 1 al 5 .",
+        "puntuacion": 0.5
+      },
+      {
+        "letra": "d",
+        "texto": "Indique el nombre de los extremos del elemento 2 (señalados con a y b), y el de los\nextremos del elemento 5 (señalados con c y d) .",
+        "puntuacion": 0.4
+      },
+      {
+        "letra": "e",
+        "texto": "La insulina humana se produce a gran escala mediante ingeniería genética en\nbacterias. Sin embargo, el ADN humano contiene intrones que no pueden ser\neliminados por las bacterias. ¿Por qué el uso de la transcriptasa inversa, una enzima\nque sintetiza ADN utilizando como molde una molécula de ARN, permite que una\nbacteria exprese correctamente el gen de la insulina humana y sintetice la proteína\nfuncional? .\nEJERCICIO 2\n(2 preguntas, de las que debe responder, a su elección, SOLAMENTE UNA)",
+        "puntuacion": 0.5
+      }
+    ],
+    "puntuacion_total": 2,
+    "criterios_andalucia_2025": true,
+    "es_simulacro": true,
+    "origen": {
+      "fuente": "PDF oficial",
+      "comunidad": "Andalucía",
+      "anio": 2025
+    }
+  },
+  {
+    "id": "PAU_BIO_AND_2025_2",
+    "comunidad": "Andalucía",
+    "anio": 2025,
+    "convocatoria": "Ordinaria",
+    "numero": "2.1",
+    "bloque": "No especificado",
+    "tipo": "desarrollo",
+    "enunciado": "En relación con la imagen adjunta:",
+    "apartados": [
+      {
+        "letra": "a",
+        "texto": "Indique qué biomolécula está representada .",
+        "puntuacion": 0.1
+      },
+      {
+        "letra": "b",
+        "texto": "¿Qué tipo de estructuras, de dicha biomolécula, representan los\nnúmeros del 1 al 5? .",
+        "puntuacion": 0.5
+      },
+      {
+        "letra": "c",
+        "texto": "Indiqué qué tipo de enlace representa el número 6 y entre qué grupos\nfuncionales se establece .",
+        "puntuacion": 0.3
+      },
+      {
+        "letra": "d",
+        "texto": "Indique tres tipos de enlaces que intervengan en la estabilización de la\nestructura representada con el número 4 .",
+        "puntuacion": 0.3
+      },
+      {
+        "letra": "e",
+        "texto": "Si esta biomolécula se somete a una temperatura superior a 100 ºC,\n¿qué ocurrirá y qué consecuencia tendrá? .",
+        "puntuacion": 0.3
+      },
+      {
+        "letra": "f",
+        "texto": "Indique cinco localizaciones en una célula eucariota en las que se\npuedan encontrar las estructuras implicadas en la síntesis de esta\nbiomolécula .\n\n\fPRUEBA DE ACCESO A LA UNIVERSIDAD Y PRUEBA DE\nADMISIÓN\n\nBIOLOGÍA\n\nANDALUCÍA, CEUTA, MELILLA y CENTROS en MARRUECOS\nCURSO 2024-2025\nInstrucciones:",
+        "puntuacion": 0.5
+      },
+      {
+        "letra": "a",
+        "texto": "Duración: 1 hora y 30 minutos.",
+        "puntuacion": null
+      },
+      {
+        "letra": "b",
+        "texto": "Todas las preguntas deben responderse en el papel entregado para la realización del examen y nunca\nen los folios que contienen los enunciados.",
+        "puntuacion": null
+      },
+      {
+        "letra": "c",
+        "texto": "Este examen consta de CINCO ejercicios. Debe responder a las preguntas que se indican en cada uno.",
+        "puntuacion": null
+      },
+      {
+        "letra": "d",
+        "texto": "La valoración de cada pregunta y sus apartados se indica entre corchetes.",
+        "puntuacion": null
+      },
+      {
+        "letra": "e",
+        "texto": "De acuerdo con el RD 534/2024, se valorará la corrección ortográfica de cada pregunta con un máximo\ndel 10 por ciento de su calificación.",
+        "puntuacion": null
+      }
+    ],
+    "puntuacion_total": 2,
+    "criterios_andalucia_2025": true,
+    "es_simulacro": true,
+    "origen": {
+      "fuente": "PDF oficial",
+      "comunidad": "Andalucía",
+      "anio": 2025
+    }
+  },
+  {
+    "id": "PAU_BIO_AND_2025_3",
+    "comunidad": "Andalucía",
+    "anio": 2025,
+    "convocatoria": "Ordinaria",
+    "numero": "2.2",
+    "bloque": "No especificado",
+    "tipo": "desarrollo",
+    "enunciado": "En relación con la figura adjunta:",
+    "apartados": [
+      {
+        "letra": "a",
+        "texto": "¿Qué molécula está representada en la imagen? .",
+        "puntuacion": 0.2
+      },
+      {
+        "letra": "b",
+        "texto": "¿Qué representan los números 1, 2, 3, 4 y el recuadro 5? .",
+        "puntuacion": 0.5
+      },
+      {
+        "letra": "c",
+        "texto": "Indique tres características que presente dicha molécula .",
+        "puntuacion": 0.6
+      },
+      {
+        "letra": "d",
+        "texto": "Indique el nombre del proceso de síntesis de esta molécula y el nombre de la enzima\nprincipal de dicho proceso .",
+        "puntuacion": 0.3
+      },
+      {
+        "letra": "e",
+        "texto": "Razone cómo afectaría a dicha enzima y a dicho proceso un incremento considerable\nde pH .\n\nEJERCICIO 3\n(2 preguntas, de las que debe responder, a su elección, SOLAMENTE UNA)",
+        "puntuacion": 0.4
+      }
+    ],
+    "puntuacion_total": 2,
+    "criterios_andalucia_2025": true,
+    "es_simulacro": true,
+    "origen": {
+      "fuente": "PDF oficial",
+      "comunidad": "Andalucía",
+      "anio": 2025
+    }
+  },
+  {
+    "id": "PAU_BIO_AND_2025_4",
+    "comunidad": "Andalucía",
+    "anio": 2025,
+    "convocatoria": "Ordinaria",
+    "numero": "3.1",
+    "bloque": "No especificado",
+    "tipo": "corta",
+    "enunciado": "Los glóbulos rojos mantienen un contenido salino interno del 0,9 %, lo que es crucial para su función. Su membrana plasmática,\ncompuesta en un alto porcentaje por fosfolípidos regula el equilibrio osmótico con el plasma sanguíneo. Considerando estos\naspectos, razone: a) ¿Qué ocurriría con estas células si se inyectara a un individuo una solución salina que hiciera que la\nconcentración final de sales en sangre fuese del 2,2 %? [0,5]. b) ¿Y si la concentración final de sales en sangre fuese del 0,01%?\n[0,5]. c) Indique la composición de los fosfolípidos y explique por qué su estructura los hace idóneos para formar membranas\nbiológicas [1].",
+    "apartados": [],
+    "puntuacion_total": 0,
+    "criterios_andalucia_2025": true,
+    "es_simulacro": true,
+    "origen": {
+      "fuente": "PDF oficial",
+      "comunidad": "Andalucía",
+      "anio": 2025
+    }
+  },
+  {
+    "id": "PAU_BIO_AND_2025_5",
+    "comunidad": "Andalucía",
+    "anio": 2025,
+    "convocatoria": "Ordinaria",
+    "numero": "3.2",
+    "bloque": "No especificado",
+    "tipo": "desarrollo",
+    "enunciado": "En una clase de biología aplicada, en la que se está estudiando la mitosis en células somáticas de un organismo animal, se\nobserva que:\nA. Los cromosomas comienzan a desplazarse hacia extremos opuestos de la célula.\nB. Los cromosomas están condensados y se alinean en el centro de la célula.\nC. Dos núcleos nuevos comienzan a formarse.",
+    "apartados": [
+      {
+        "letra": "a",
+        "texto": "¿A qué fases de la mitosis corresponden A, B y C? .",
+        "puntuacion": 0.3
+      },
+      {
+        "letra": "b",
+        "texto": "¿Qué fase de la mitosis no se ha observado? . Indique tres acontecimientos que ocurren en esta fase [0,6].",
+        "puntuacion": 0.1
+      },
+      {
+        "letra": "c",
+        "texto": "Indique la importancia biológica que tiene la mitosis para este organismo .",
+        "puntuacion": 0.5
+      },
+      {
+        "letra": "d",
+        "texto": "Sabiendo que la colchicina inhibe la polimerización de la tubulina, ¿qué efectos tendría en la mitosis de estas células? Razone\nla respuesta .\n\n\fPRUEBA DE ACCESO A LA UNIVERSIDAD Y PRUEBA DE\nADMISIÓN\n\nBIOLOGÍA\n\nANDALUCÍA, CEUTA, MELILLA y CENTROS en MARRUECOS\nCURSO 2024-2025\nInstrucciones:",
+        "puntuacion": 0.5
+      },
+      {
+        "letra": "a",
+        "texto": "Duración: 1 hora y 30 minutos.",
+        "puntuacion": null
+      },
+      {
+        "letra": "b",
+        "texto": "Todas las preguntas deben responderse en el papel entregado para la realización del examen y nunca\nen los folios que contienen los enunciados.",
+        "puntuacion": null
+      },
+      {
+        "letra": "c",
+        "texto": "Este examen consta de CINCO ejercicios. Debe responder a las preguntas que se indican en cada uno.",
+        "puntuacion": null
+      },
+      {
+        "letra": "d",
+        "texto": "La valoración de cada pregunta y sus apartados se indica entre corchetes.",
+        "puntuacion": null
+      },
+      {
+        "letra": "e",
+        "texto": "De acuerdo con el RD 534/2024, se valorará la corrección ortográfica de cada pregunta con un máximo\ndel 10 por ciento de su calificación.\n\nEJERCICIO 4\n(2 preguntas, de las que debe responder, a su elección, SOLAMENTE UNA)",
+        "puntuacion": null
+      }
+    ],
+    "puntuacion_total": 1.4,
+    "criterios_andalucia_2025": true,
+    "es_simulacro": true,
+    "origen": {
+      "fuente": "PDF oficial",
+      "comunidad": "Andalucía",
+      "anio": 2025
+    }
+  },
+  {
+    "id": "PAU_BIO_AND_2025_6",
+    "comunidad": "Andalucía",
+    "anio": 2025,
+    "convocatoria": "Ordinaria",
+    "numero": "4.1",
+    "bloque": "No especificado",
+    "tipo": "desarrollo",
+    "enunciado": "Ulani se mudó a España desde una isla remota sin saber que era alérgica a las abejas. No pasó mucho tiempo antes de que le\npicase una abeja, lo que le produjo una reacción inflamatoria local que desconcertó bastante a la isleña. Sus amigos intentaron\nexplicarle en qué consistía la respuesta alérgica utilizando la siguiente imagen.",
+    "apartados": [
+      {
+        "letra": "a",
+        "texto": "¿Qué tipo de inmunoglobulinas, señaladas con el número 1, son específicas de la respuesta\nalérgica?  y ¿cuál es la naturaleza química de las inmunoglobulinas? [0,2]. Describa su\nestructura molecular [0,2].",
+        "puntuacion": 0.2
+      },
+      {
+        "letra": "b",
+        "texto": "¿Cómo se denominan las diferentes sustancias, como la señalada con el número 2, que\ndesencadenan una respuesta alérgica? .",
+        "puntuacion": 0.2
+      },
+      {
+        "letra": "c",
+        "texto": "Indique el nombre de la célula de la imagen y el nombre de una sustancia liberada por dicha célula\ncomo consecuencia de la respuesta alérgica .",
+        "puntuacion": 0.4
+      },
+      {
+        "letra": "d",
+        "texto": "¿Qué tipo de células producen las inmunoglobulinas? . Nombre dos orgánulos o estructuras\nde dichas células implicados en la síntesis y secreción de inmunoglobulinas, e indique cómo se\ndenomina, en general, el proceso por el que la célula libera dichas sustancias al exterior [0,6].",
+        "puntuacion": 0.2
+      }
+    ],
+    "puntuacion_total": 1,
+    "criterios_andalucia_2025": true,
+    "es_simulacro": true,
+    "origen": {
+      "fuente": "PDF oficial",
+      "comunidad": "Andalucía",
+      "anio": 2025
+    }
+  },
+  {
+    "id": "PAU_BIO_AND_2025_7",
+    "comunidad": "Andalucía",
+    "anio": 2025,
+    "convocatoria": "Ordinaria",
+    "numero": "4.2",
+    "bloque": "No especificado",
+    "tipo": "desarrollo",
+    "enunciado": "En relación con la imagen adjunta:",
+    "apartados": [
+      {
+        "letra": "a",
+        "texto": "¿Qué tipos de inmunidad se representan con las\nletras A y B? .",
+        "puntuacion": 0.3
+      },
+      {
+        "letra": "b",
+        "texto": "¿Qué tipos de respuestas inmunitarias se\nrepresentan con las letras C y D? .",
+        "puntuacion": 0.2
+      },
+      {
+        "letra": "c",
+        "texto": "Nombre las moléculas o células señaladas con los\nnúmeros del 1 al 5 .",
+        "puntuacion": 0.5
+      },
+      {
+        "letra": "d",
+        "texto": "Cite dos orgánulos o estructuras celulares que estén\nimplicados en la producción de la molécula señalada\ncon el número 3 . Indique una función de cada\nuno de estos orgánulos en relación con la síntesis de\nesta molécula [0,2].",
+        "puntuacion": 0.3
+      },
+      {
+        "letra": "e",
+        "texto": "Explique razonadamente cómo se relacionan los\nprocesos de transcripción y traducción en la\ngeneración de una respuesta inmunitaria .\n\n\fPRUEBA DE ACCESO A LA UNIVERSIDAD Y PRUEBA DE\nADMISIÓN\n\nBIOLOGÍA\n\nANDALUCÍA, CEUTA, MELILLA y CENTROS en MARRUECOS\nCURSO 2024-2025\nInstrucciones:",
+        "puntuacion": 0.5
+      },
+      {
+        "letra": "a",
+        "texto": "Duración: 1 hora y 30 minutos.",
+        "puntuacion": null
+      },
+      {
+        "letra": "b",
+        "texto": "Todas las preguntas deben responderse en el papel entregado para la realización del examen y nunca\nen los folios que contienen los enunciados.",
+        "puntuacion": null
+      },
+      {
+        "letra": "c",
+        "texto": "Este examen consta de CINCO ejercicios. Debe responder a las preguntas que se indican en cada uno.",
+        "puntuacion": null
+      },
+      {
+        "letra": "d",
+        "texto": "La valoración de cada pregunta y sus apartados se indica entre corchetes.",
+        "puntuacion": null
+      },
+      {
+        "letra": "e",
+        "texto": "De acuerdo con el RD 534/2024, se valorará la corrección ortográfica de cada pregunta con un máximo\ndel 10 por ciento de su calificación.\n\nEJERCICIO 5\n(2 preguntas, de las que debe responder, a su elección, SOLAMENTE UNA)",
+        "puntuacion": null
+      }
+    ],
+    "puntuacion_total": 1.8,
+    "criterios_andalucia_2025": true,
+    "es_simulacro": true,
+    "origen": {
+      "fuente": "PDF oficial",
+      "comunidad": "Andalucía",
+      "anio": 2025
+    }
+  },
+  {
+    "id": "PAU_BIO_AND_2025_8",
+    "comunidad": "Andalucía",
+    "anio": 2025,
+    "convocatoria": "Ordinaria",
+    "numero": "5.1",
+    "bloque": "No especificado",
+    "tipo": "desarrollo",
+    "enunciado": "La industria alimentaria aprovecha diversos procesos de fermentación para la producción de alimentos y bebidas como el yogur\no el pan.",
+    "apartados": [
+      {
+        "letra": "a",
+        "texto": "¿Qué tipo de fermentación se utiliza en la producción de yogur? . ¿Qué microorganismos están involucrados en su\nproducción? [0,2].",
+        "puntuacion": 0.2
+      },
+      {
+        "letra": "b",
+        "texto": "¿Qué tipo de fermentación se utiliza en la producción de pan? . ¿Qué microorganismos están implicados en su\nproducción? [0,2]. ¿Qué gas se produce durante este proceso y qué función cumple en la elaboración del pan? [0,3]. Indique\nqué otro producto final se obtiene en la fermentación y razone si está presente o no en el pan [0,3].",
+        "puntuacion": 0.2
+      },
+      {
+        "letra": "c",
+        "texto": "Indique tres características diferenciadoras entre los microorganismos que producen el yogur y los que producen el pan .",
+        "puntuacion": 0.3
+      },
+      {
+        "letra": "d",
+        "texto": "La producción de pan y yogur depende del correcto funcionamiento de las enzimas que intervienen en estos procesos.\nRazone cómo afectaría a la actividad de estas enzimas un aumento o descenso moderado de la temperatura .",
+        "puntuacion": 0.3
+      }
+    ],
+    "puntuacion_total": 1,
+    "criterios_andalucia_2025": true,
+    "es_simulacro": true,
+    "origen": {
+      "fuente": "PDF oficial",
+      "comunidad": "Andalucía",
+      "anio": 2025
+    }
+  },
+  {
+    "id": "PAU_BIO_AND_2025_9",
+    "comunidad": "Andalucía",
+    "anio": 2025,
+    "convocatoria": "Ordinaria",
+    "numero": "5.2",
+    "bloque": "No especificado",
+    "tipo": "desarrollo",
+    "enunciado": "Con relación a la beta-oxidación de los ácidos grasos:",
+    "apartados": [
+      {
+        "letra": "a",
+        "texto": "Indique la localización intracelular de dicho proceso en una célula eucariota .",
+        "puntuacion": 0.2
+      },
+      {
+        "letra": "b",
+        "texto": "En dicho proceso, ¿de qué tipo de molécula orgánica se parte y qué moléculas se obtienen como productos finales? .",
+        "puntuacion": 0.8
+      },
+      {
+        "letra": "c",
+        "texto": "Indique el nombre de una ruta en la que se puedan incorporar cada uno de los productos finales con objeto de obtener\nenergía .",
+        "puntuacion": 0.6
+      },
+      {
+        "letra": "d",
+        "texto": "Nombre cuatro componentes, diferentes de los relacionados con la beta-oxidación de los ácidos grasos, que se encuentren\nen la misma localización intracelular .",
+        "puntuacion": 0.4
+      }
+    ],
+    "puntuacion_total": 2,
+    "criterios_andalucia_2025": true,
+    "es_simulacro": true,
+    "origen": {
+      "fuente": "PDF oficial",
+      "comunidad": "Andalucía",
+      "anio": 2025
+    }
+  }
+]

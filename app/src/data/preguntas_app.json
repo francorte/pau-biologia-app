@@ -1,0 +1,152 @@
+[
+  {
+    "id": "AND_2025_1",
+    "numero": 1,
+    "comunidad": "Andalucía",
+    "anio": 2025,
+    "bloque": "-",
+    "bloque_nombre": "No especificado",
+    "enunciado": "PRUEBA DE ACCESO A LA UNIVERSIDAD Y PRUEBA DE ADMISIÓN BIOLOGÍA ANDALUCÍA, CEUTA, MELILLA y CENTROS en MARRUECOS CURSO 2024-2025 Instrucciones: a) Duración: 1 hora y 30 minutos. b) Todas las preguntas deben responderse en el papel entregado para la realización del examen y nunca en los folios que contienen los enunciados. c) Este examen consta de CINCO ejercicios. Debe responder a las preguntas que se indican en cada uno. d) La valoración de cada pregunta y sus apartados se indica entre corchetes. e) De acuerdo con el RD 534/2024, se valorará la corrección ortográfica de cada pregunta con un máximo del 10 por ciento de su calificación. Este examen consta de CINCO ejercicios. El ejercicio 1 está compuesto por una sola pregunta. Los ejercicios del 2 al 5 incluyen dos preguntas cada uno, de las cuales se debe responder a una única pregunta por ejercicio. En total se deben responder 5 preguntas. En caso de responder a más preguntas de las requeridas, sólo será tenida en cuenta la respondida en primer lugar para cada ejercicio. EJERCICIO 1",
+    "tipo": "desarrollo",
+    "valida_simulacro": true,
+    "origen": {
+      "comunidad": "Andalucía",
+      "anio": 2025
+    }
+  },
+  {
+    "id": "AND_2025_2",
+    "numero": 2,
+    "comunidad": "Andalucía",
+    "anio": 2025,
+    "bloque": "A",
+    "bloque_nombre": "Biomoléculas",
+    "enunciado": "2 puntos) En relación con la figura adjunta, responda a las siguientes cuestiones: a) Cite y defina los dos procesos que tienen lugar en la expresión de la información genética [0,5]. b) ¿Cómo se denomina la enzima marcada como E? [0,1]. c) Identifique los elementos de la figura señalados con los números del 1 al 5 [0,5]. d) Indique el nombre de los extremos del elemento 2 (señalados con a y b), y el de los extremos del elemento 5 (señalados con c y d) [0,4]. e) La insulina humana se produce a gran escala mediante ingeniería genética en bacterias. Sin embargo, el ADN humano contiene intrones que no pueden ser eliminados por las bacterias. ¿Por qué el uso de la transcriptasa inversa, una enzima que sintetiza ADN utilizando como molde una molécula de ARN, permite que una bacteria exprese correctamente el gen de la insulina humana y sintetice la proteína funcional? [0,5]. EJERCICIO 2 (2 preguntas, de las que debe responder, a su elección, SOLAMENTE UNA)",
+    "tipo": "desarrollo",
+    "valida_simulacro": true,
+    "origen": {
+      "comunidad": "Andalucía",
+      "anio": 2025
+    }
+  },
+  {
+    "id": "AND_2025_3",
+    "numero": 3,
+    "comunidad": "Andalucía",
+    "anio": 2025,
+    "bloque": "A",
+    "bloque_nombre": "Biomoléculas",
+    "enunciado": "2 puntos) En relación con la imagen adjunta: a) Indique qué biomolécula está representada [0,1]. b) ¿Qué tipo de estructuras, de dicha biomolécula, representan los números del 1 al 5? [0,5]. c) Indiqué qué tipo de enlace representa el número 6 y entre qué grupos funcionales se establece [0,3]. d) Indique tres tipos de enlaces que intervengan en la estabilización de la estructura representada con el número 4 [0,3]. e) Si esta biomolécula se somete a una temperatura superior a 100 ºC, ¿qué ocurrirá y qué consecuencia tendrá? [0,3]. f) Indique cinco localizaciones en una célula eucariota en las que se puedan encontrar las estructuras implicadas en la síntesis de esta biomolécula [0,5]. PRUEBA DE ACCESO A LA UNIVERSIDAD Y PRUEBA DE ADMISIÓN BIOLOGÍA ANDALUCÍA, CEUTA, MELILLA y CENTROS en MARRUECOS CURSO 2024-2025 Instrucciones: a) Duración: 1 hora y 30 minutos. b) Todas las preguntas deben responderse en el papel entregado para la realización del examen y nunca en los folios que contienen los enunciados. c) Este examen consta de CINCO ejercicios. Debe responder a las preguntas que se indican en cada uno. d) La valoración de cada pregunta y sus apartados se indica entre corchetes. e) De acuerdo con el RD 534/2024, se valorará la corrección ortográfica de cada pregunta con un máximo del 10 por ciento de su calificación.",
+    "tipo": "desarrollo",
+    "valida_simulacro": true,
+    "origen": {
+      "comunidad": "Andalucía",
+      "anio": 2025
+    }
+  },
+  {
+    "id": "AND_2025_4",
+    "numero": 4,
+    "comunidad": "Andalucía",
+    "anio": 2025,
+    "bloque": "-",
+    "bloque_nombre": "No especificado",
+    "enunciado": "2 puntos) En relación con la figura adjunta: a) ¿Qué molécula está representada en la imagen? [0,2]. b) ¿Qué representan los números 1, 2, 3, 4 y el recuadro 5? [0,5]. c) Indique tres características que presente dicha molécula [0,6]. d) Indique el nombre del proceso de síntesis de esta molécula y el nombre de la enzima principal de dicho proceso [0,3]. e) Razone cómo afectaría a dicha enzima y a dicho proceso un incremento considerable de pH [0,4]. EJERCICIO 3 (2 preguntas, de las que debe responder, a su elección, SOLAMENTE UNA)",
+    "tipo": "desarrollo",
+    "valida_simulacro": true,
+    "origen": {
+      "comunidad": "Andalucía",
+      "anio": 2025
+    }
+  },
+  {
+    "id": "AND_2025_5",
+    "numero": 5,
+    "comunidad": "Andalucía",
+    "anio": 2025,
+    "bloque": "C",
+    "bloque_nombre": "Biología celular",
+    "enunciado": "2 puntos) Los glóbulos rojos mantienen un contenido salino interno del 0,9 %, lo que es crucial para su función. Su membrana plasmática, compuesta en un alto porcentaje por fosfolípidos regula el equilibrio osmótico con el plasma sanguíneo. Considerando estos aspectos, razone: a) ¿Qué ocurriría con estas células si se inyectara a un individuo una solución salina que hiciera que la concentración final de sales en sangre fuese del 2,2 %? [0,5]. b) ¿Y si la concentración final de sales en sangre fuese del 0,01%? [0,5]. c) Indique la composición de los fosfolípidos y explique por qué su estructura los hace idóneos para formar membranas biológicas [1].",
+    "tipo": "desarrollo",
+    "valida_simulacro": true,
+    "origen": {
+      "comunidad": "Andalucía",
+      "anio": 2025
+    }
+  },
+  {
+    "id": "AND_2025_6",
+    "numero": 6,
+    "comunidad": "Andalucía",
+    "anio": 2025,
+    "bloque": "C",
+    "bloque_nombre": "Biología celular",
+    "enunciado": "2 puntos) En una clase de biología aplicada, en la que se está estudiando la mitosis en células somáticas de un organismo animal, se observa que: A. Los cromosomas comienzan a desplazarse hacia extremos opuestos de la célula. B. Los cromosomas están condensados y se alinean en el centro de la célula. C. Dos núcleos nuevos comienzan a formarse. a) ¿A qué fases de la mitosis corresponden A, B y C? [0,3]. b) ¿Qué fase de la mitosis no se ha observado? [0,1]. Indique tres acontecimientos que ocurren en esta fase [0,6]. c) Indique la importancia biológica que tiene la mitosis para este organismo [0,5]. d) Sabiendo que la colchicina inhibe la polimerización de la tubulina, ¿qué efectos tendría en la mitosis de estas células? Razone la respuesta [0,5]. PRUEBA DE ACCESO A LA UNIVERSIDAD Y PRUEBA DE ADMISIÓN BIOLOGÍA ANDALUCÍA, CEUTA, MELILLA y CENTROS en MARRUECOS CURSO 2024-2025 Instrucciones: a) Duración: 1 hora y 30 minutos. b) Todas las preguntas deben responderse en el papel entregado para la realización del examen y nunca en los folios que contienen los enunciados. c) Este examen consta de CINCO ejercicios. Debe responder a las preguntas que se indican en cada uno. d) La valoración de cada pregunta y sus apartados se indica entre corchetes. e) De acuerdo con el RD 534/2024, se valorará la corrección ortográfica de cada pregunta con un máximo del 10 por ciento de su calificación. EJERCICIO 4 (2 preguntas, de las que debe responder, a su elección, SOLAMENTE UNA)",
+    "tipo": "desarrollo",
+    "valida_simulacro": true,
+    "origen": {
+      "comunidad": "Andalucía",
+      "anio": 2025
+    }
+  },
+  {
+    "id": "AND_2025_7",
+    "numero": 7,
+    "comunidad": "Andalucía",
+    "anio": 2025,
+    "bloque": "C",
+    "bloque_nombre": "Biología celular",
+    "enunciado": "2 puntos) Ulani se mudó a España desde una isla remota sin saber que era alérgica a las abejas. No pasó mucho tiempo antes de que le picase una abeja, lo que le produjo una reacción inflamatoria local que desconcertó bastante a la isleña. Sus amigos intentaron explicarle en qué consistía la respuesta alérgica utilizando la siguiente imagen. a) ¿Qué tipo de inmunoglobulinas, señaladas con el número 1, son específicas de la respuesta alérgica? [0,2] y ¿cuál es la naturaleza química de las inmunoglobulinas? [0,2]. Describa su estructura molecular [0,2]. b) ¿Cómo se denominan las diferentes sustancias, como la señalada con el número 2, que desencadenan una respuesta alérgica? [0,2]. c) Indique el nombre de la célula de la imagen y el nombre de una sustancia liberada por dicha célula como consecuencia de la respuesta alérgica [0,4]. d) ¿Qué tipo de células producen las inmunoglobulinas? [0,2]. Nombre dos orgánulos o estructuras de dichas células implicados en la síntesis y secreción de inmunoglobulinas, e indique cómo se denomina, en general, el proceso por el que la célula libera dichas sustancias al exterior [0,6].",
+    "tipo": "desarrollo",
+    "valida_simulacro": true,
+    "origen": {
+      "comunidad": "Andalucía",
+      "anio": 2025
+    }
+  },
+  {
+    "id": "AND_2025_8",
+    "numero": 8,
+    "comunidad": "Andalucía",
+    "anio": 2025,
+    "bloque": "B",
+    "bloque_nombre": "Genética molecular y expresión génica",
+    "enunciado": "2 puntos) En relación con la imagen adjunta: a) ¿Qué tipos de inmunidad se representan con las letras A y B? [0,3]. b) ¿Qué tipos de respuestas inmunitarias se representan con las letras C y D? [0,2]. c) Nombre las moléculas o células señaladas con los números del 1 al 5 [0,5]. d) Cite dos orgánulos o estructuras celulares que estén implicados en la producción de la molécula señalada con el número 3 [0,3]. Indique una función de cada uno de estos orgánulos en relación con la síntesis de esta molécula [0,2]. e) Explique razonadamente cómo se relacionan los procesos de transcripción y traducción en la generación de una respuesta inmunitaria [0,5]. PRUEBA DE ACCESO A LA UNIVERSIDAD Y PRUEBA DE ADMISIÓN BIOLOGÍA ANDALUCÍA, CEUTA, MELILLA y CENTROS en MARRUECOS CURSO 2024-2025 Instrucciones: a) Duración: 1 hora y 30 minutos. b) Todas las preguntas deben responderse en el papel entregado para la realización del examen y nunca en los folios que contienen los enunciados. c) Este examen consta de CINCO ejercicios. Debe responder a las preguntas que se indican en cada uno. d) La valoración de cada pregunta y sus apartados se indica entre corchetes. e) De acuerdo con el RD 534/2024, se valorará la corrección ortográfica de cada pregunta con un máximo del 10 por ciento de su calificación. EJERCICIO 5 (2 preguntas, de las que debe responder, a su elección, SOLAMENTE UNA)",
+    "tipo": "desarrollo",
+    "valida_simulacro": true,
+    "origen": {
+      "comunidad": "Andalucía",
+      "anio": 2025
+    }
+  },
+  {
+    "id": "AND_2025_9",
+    "numero": 9,
+    "comunidad": "Andalucía",
+    "anio": 2025,
+    "bloque": "-",
+    "bloque_nombre": "No especificado",
+    "enunciado": "2 puntos) La industria alimentaria aprovecha diversos procesos de fermentación para la producción de alimentos y bebidas como el yogur o el pan. a) ¿Qué tipo de fermentación se utiliza en la producción de yogur? [0,2]. ¿Qué microorganismos están involucrados en su producción? [0,2]. b) ¿Qué tipo de fermentación se utiliza en la producción de pan? [0,2]. ¿Qué microorganismos están implicados en su producción? [0,2]. ¿Qué gas se produce durante este proceso y qué función cumple en la elaboración del pan? [0,3]. Indique qué otro producto final se obtiene en la fermentación y razone si está presente o no en el pan [0,3]. c) Indique tres características diferenciadoras entre los microorganismos que producen el yogur y los que producen el pan [0,3]. d) La producción de pan y yogur depende del correcto funcionamiento de las enzimas que intervienen en estos procesos. Razone cómo afectaría a la actividad de estas enzimas un aumento o descenso moderado de la temperatura [0,3].",
+    "tipo": "desarrollo",
+    "valida_simulacro": true,
+    "origen": {
+      "comunidad": "Andalucía",
+      "anio": 2025
+    }
+  },
+  {
+    "id": "AND_2025_10",
+    "numero": 10,
+    "comunidad": "Andalucía",
+    "anio": 2025,
+    "bloque": "-",
+    "bloque_nombre": "No especificado",
+    "enunciado": "2 puntos) Con relación a la beta-oxidación de los ácidos grasos: a) Indique la localización intracelular de dicho proceso en una célula eucariota [0,2]. b) En dicho proceso, ¿de qué tipo de molécula orgánica se parte y qué moléculas se obtienen como productos finales? [0,8]. c) Indique el nombre de una ruta en la que se puedan incorporar cada uno de los productos finales con objeto de obtener energía [0,6]. d) Nombre cuatro componentes, diferentes de los relacionados con la beta-oxidación de los ácidos grasos, que se encuentren en la misma localización intracelular [0,4].",
+    "tipo": "desarrollo",
+    "valida_simulacro": true,
+    "origen": {
+      "comunidad": "Andalucía",
+      "anio": 2025
+    }
+  }
+]
