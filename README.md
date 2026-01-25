@@ -1,72 +1,168 @@
-# PAU Biología – App de apoyo al estudio
+# 🧬 PAU Biología Trainer - Andalucía
 
-Aplicación educativa en desarrollo para el **apoyo al estudio de Biología en la PAU (Prueba de Acceso a la Universidad)**, orientada a alumnado de 2.º de Bachillerato y a docentes.
+Aplicación móvil para entrenamiento de exámenes PAU de Biología (Selectividad) según las **Directrices y Orientaciones oficiales de Andalucía 2025-26**.
 
-El proyecto nace con un enfoque **didáctico, riguroso y basado en el currículo oficial**, facilitando la práctica, el repaso y el análisis de preguntas reales de PAU.
+![React](https://img.shields.io/badge/React-18.2-61DAFB?logo=react)
+![Vite](https://img.shields.io/badge/Vite-5.0-646CFF?logo=vite)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+## 🎯 Características
+
+### Funcionalidades principales
+- ✅ **Banco de preguntas PAU** - Clasificadas por los 6 bloques oficiales
+- ✅ **Carga de exámenes** - Importar nuevos exámenes desde texto
+- ✅ **Detección automática de imágenes** - Identifica preguntas que requieren figuras
+- ✅ **Clasificación inteligente** - Asigna bloque temático automáticamente
+- ✅ **Respuestas modelo** - Con criterios de corrección oficiales
+- ✅ **Seguimiento de progreso** - Marca apartados como "dominados"
+- ✅ **Persistencia local** - Los datos se guardan en el navegador
+
+### Bloques temáticos cubiertos
+| Bloque | Contenido |
+|--------|-----------|
+| **A** | Biomoléculas |
+| **B** | Genética molecular |
+| **C** | Biología celular |
+| **D** | Metabolismo |
+| **E** | Biotecnología |
+| **F** | Inmunología |
+
+## 🚀 Instalación
+
+```bash
+# Clonar repositorio
+git clone https://github.com/francorte/pau-biologia-app.git
+cd pau-biologia-app
+
+# Instalar dependencias
+npm install
+
+# Iniciar en desarrollo
+npm run dev
+
+# Construir para producción
+npm run build
+```
+
+## 📱 Uso
+
+### Cargar un nuevo examen
+
+1. Pulsa **"➕ Cargar"** en la navegación inferior
+2. Introduce el **año del examen**
+3. **Pega el texto** del examen PAU con este formato:
+
+```
+PREGUNTA 1 (obligatoria) [2 puntos]
+La beta-oxidación de ácidos grasos se intensifica en situaciones de ayuno...
+a) Explique por qué ocurre esto [0,5].
+b) Una investigadora ha detectado que... [0,5].
+
+PREGUNTA 2 Opción A [2 puntos]
+En relación con la figura adjunta:
+a) ¿Qué estructura representa la imagen? [0,2].
+```
+
+4. El sistema **detectará automáticamente**:
+   - Número de preguntas
+   - Bloque temático (A-F)
+   - Si requiere imagen
+   - Puntuación de cada apartado
+
+5. Si hay preguntas con imagen, podrás **subirlas una a una**
+
+### Entrenar
+
+1. Selecciona un **bloque temático** o "Todas"
+2. Lee el enunciado y los apartados
+3. Pulsa en cada apartado para expandirlo
+4. **"Ver respuesta modelo"** para autocorregirte
+5. **"Marcar como dominado"** cuando lo controles
+
+## 📂 Estructura del proyecto
+
+```
+pau-biologia-app/
+├── public/
+│   └── index.html
+├── src/
+│   ├── App.jsx          # Componente principal
+│   ├── main.jsx         # Punto de entrada
+│   └── index.css        # Estilos globales
+├── docs/
+│   └── orientaciones.md # Directrices PAU oficiales
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+## 🔧 Tecnologías
+
+- **React 18** - Interfaz de usuario
+- **Vite** - Bundler y servidor de desarrollo
+- **localStorage** - Persistencia de datos
+- **CSS-in-JS** - Estilos inline para portabilidad
+
+## 📋 Formato de datos
+
+```javascript
+{
+  id: "PAU_2024_P1",
+  año: 2024,
+  bloque: "D",
+  bloque_nombre: "Metabolismo",
+  tipo: "competencial",
+  obligatoria: true,
+  enunciado: "La beta-oxidación de ácidos grasos...",
+  puntuacion_total: 2,
+  tiene_imagen: true,
+  imagen_base64: "data:image/png;base64,...",
+  apartados: [
+    {
+      letra: "a",
+      texto: "Explique por qué ocurre esto",
+      puntos: 0.5,
+      respuesta_modelo: "En ayuno disminuye la glucosa...",
+      criterios: [
+        { concepto: "Mencionar glucosa", valor: 0.2 },
+        { concepto: "Relacionar con insulina", valor: 0.3 }
+      ],
+      errores_frecuentes: [
+        "Confundir catabolismo con anabolismo"
+      ]
+    }
+  ]
+}
+```
+
+## 📖 Basado en documentación oficial
+
+Este proyecto sigue las **Directrices y Orientaciones Generales para las Pruebas de Acceso a la Universidad** de Biología (curso 2025-26) publicadas por las Universidades Públicas de Andalucía.
+
+### Criterios de corrección implementados
+- Ajuste estricto al enunciado
+- Puntuación por precisión
+- Valoración de argumentación
+- Lenguaje científico-biológico
+- Esquemas pertinentes
+
+## 🤝 Contribuir
+
+1. Fork del repositorio
+2. Crear rama feature (`git checkout -b feature/nueva-funcionalidad`)
+3. Commit cambios (`git commit -m 'Añadir nueva funcionalidad'`)
+4. Push a la rama (`git push origin feature/nueva-funcionalidad`)
+5. Abrir Pull Request
+
+## 📄 Licencia
+
+MIT License - Ver [LICENSE](LICENSE) para más detalles.
+
+## 👤 Autor
+
+**Francisco de la Corte**
+- GitHub: [@francorte](https://github.com/francorte)
 
 ---
 
-## 🎯 Objetivos del proyecto
-
-- Facilitar el **entrenamiento del alumnado** con preguntas tipo PAU.
-- Organizar contenidos según **bloques curriculares oficiales**.
-- Servir como **herramienta de apoyo docente**.
-- Constituir un **proyecto demostrable de portfolio** (educación + datos + tecnología).
-
----
-
-## 📚 Enfoque pedagógico
-
-- Basado en las **Directrices y Orientaciones de Biología PAU (Andalucía / armonización nacional)**.
-- Orientado a **razonamiento biológico**, no solo memorización.
-- Priorización de:
-  - Preguntas competenciales  
-  - Respuestas abiertas y semiconstruidas  
-  - Uso correcto del lenguaje científico  
-
----
-
-## 🧩 Funcionalidades previstas
-
-- Banco de preguntas PAU reales y simuladas.
-- Clasificación por:
-  - Bloques de contenido
-  - Año
-  - Tipo de pregunta
-- Entrenamiento tipo test y desarrollo.
-- Análisis de errores y seguimiento del progreso (en fases posteriores).
-
----
-
-## 🛠️ Estado del proyecto
-
-🚧 **En desarrollo activo**
-
-Actualmente se está trabajando en:
-- Estructura del proyecto.
-- Organización de preguntas y contenidos.
-- Base técnica para futuras ampliaciones.
-
----
-
-## 💻 Tecnologías
-
-*(se ampliará conforme avance el desarrollo)*
-
-- Frontend: por definir  
-- Backend / lógica: por definir  
-- Control de versiones: Git + GitHub  
-
----
-
-## 👨‍🏫 Autor
-
-Proyecto desarrollado por **Francisco de la Corte**,  
-biólogo, docente y analista de datos, con interés en educación, divulgación científica y herramientas digitales aplicadas al aprendizaje.
-
----
-
-## 📌 Nota
-
-Este repositorio forma parte de un proyecto educativo más amplio.  
-El contenido y las funcionalidades se ampliarán progresivamente.
+*Desarrollado para estudiantes de 2º Bachillerato preparando la PAU de Biología en Andalucía* 🎓

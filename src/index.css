@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #0c1222;
+  color: white;
+  overflow-x: hidden;
+}
+
+/* Ocultar scrollbar pero mantener funcionalidad */
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
+/* Prevenir zoom en inputs en iOS */
+input, textarea, select {
+  font-size: 16px;
+}
+
+/* Animaciones suaves */
+button, input, textarea {
+  transition: all 0.2s ease;
+}
+
+button:active {
+  transform: scale(0.98);
+}
+
+/* Prevenir selección de texto en botones */
+button {
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Placeholder styling */
+::placeholder {
+  color: #64748b;
+  opacity: 1;
+}
+
+/* Focus visible para accesibilidad */
+:focus-visible {
+  outline: 2px solid #6366f1;
+  outline-offset: 2px;
+}
