@@ -1,0 +1,151 @@
+{
+  "exam_code": "B",
+  "anio": 2008,
+  "universidad": "Andalucía",
+  "questions": [
+    {
+      "id": "A.1.B_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 1,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Enumere tres factores que influyen en la actividad enzimática [0,6]. Explique detalladamente el efecto\nde dos de ellos [1,4].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.2.B_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 2,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Defina los siguientes componentes de la célula eucariótica e indique una función de cada uno de ellos:\npared celular, membrana plasmática, retículo endoplasmático y lisosoma [2].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.3.B_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 3,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Exponga las consecuencias biológicas de la mitosis y de la meiosis [1]. Explique las distintas fases de\nla mitosis [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.4.B_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 4,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "La leche condensada se obtiene de leche a la que se le elimina parte del agua y se le añade gran\ncantidad de azúcar. Una vez abierto, un bote de leche condensada puede conservarse varios días\nfuera del frigorífico sin que crezcan microorganismos ¿Por qué? Razone la respuesta [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.5.B_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 5,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "La información genética de los retrovirus, que está en forma de ARN, puede insertarse en el ADN de\nla célula huésped. Dé una explicación razonada a este hecho [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.6.B_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 6,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "El siguiente esquema representa la cantidad de anticuerpo en la sangre tras la inyección de dos\nantígenos diferentes:\na).- Explique a qué se debe la mayor\nrespuesta frente al antígeno A\ntras la segunda inyección [0,5].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.1.B_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 1,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "Defina qué son los monosacáridos [0,6]. Indique el nombre que reciben en función del número de\nátomos de carbono [0,5]. Cite dos funciones biológicas de los monosacáridos [0,4]. Nombre dos\npolisacáridos importantes y la función que realizan [0,5].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.2.B_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 2,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "Describa la estructura de las mitocondrias [1] e indique en qué parte de las mismas se llevan a cabo\nlas distintas reacciones metabólicas que éstas realizan [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.3.B_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 3,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "Defina inmunidad humoral e inmunidad celular [0,8]. Describa las principales características de cada\nuna de ellas [1,2].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.4.B_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 4,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "La tubulina interviene en mecanismos fundamentales de la división celular, razón por la cual resulta\nclave en el desarrollo de procesos cancerígenos. Explique la relación existente entre: moléculas de\ntubulina-división celular-procesos cancerígenos. Razone la respuesta [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.5.B_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 5,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "El color de la flor de un tipo de violetas está determinado por un gen con dos alelos con herencia\nintermedia. El alelo R determina el color rojo y el alelo r determina el color blanco. Las plantas\nheterocigóticas tienen flores rosas. En los cruzamientos Rr x RR; rr x Rr; Rr x Rr indique qué\ngametos se formarán en cada parental y cuál será el fenotipo de las flores en la siguiente generación\n[1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.6.B_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 6,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "En relación con la figura adjunta, responda las siguientes preguntas:\na).- Indique cuáles son las estructuras\ny/o moléculas señaladas con los\nnúmeros 1 al 7 [0,7], e identifique los\nprocesos señalados con las letras A",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "exam_code": "F",
+  "anio": 2008,
+  "universidad": "Andalucía",
+  "questions": [
+    {
+      "id": "A.1.F_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 1,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Indique la composición y estructura de los distintos tipos de ARN [1]. Explique la función biológica de\ncada uno de ellos [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.2.F_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 2,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Indique una función del retículo endoplasmático liso [0,2]. Describa el complejo de Golgi [1] y cite dos\nde sus funciones [0,4]. ¿Qué son los lisosomas y cuál es su función? [0,4].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.3.F_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 3,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Defina los términos gen [0,5] y mutación [0,5]. Cite dos agentes mutagénicos [0,5]. Indique el\nsignificado de las mutaciones en la evolución [0,5].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.4.F_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 4,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Una de las estrategias para introducir ADN en una célula eucariótica es rodearlo de una bicapa\nlipídica. Exponga razonadamente por qué se facilita así la entrada de ADN a la célula [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.5.F_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 5,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "En la fabricación casera de yogur, se mezcla el contenido de parte de un yogur con un litro de leche,\nse agita bien y se distribuye en recipientes que se incuban a 36ºC durante unas 8 horas y\nposteriormente se guardan en el frigorífico hasta su consumo. ¿Por qué se hace así? Razone la\nrespuesta [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.6.F_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 6,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "En relación con la figura adjunta, en la que se representa un enzima, su sustrato y dos inhibidores,\nconteste las siguientes cuestiones:\na).- Describa qué ocurre\nen los procesos A y\nB [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.1.F_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 1,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "Indique qué son los lípidos [0,4]. Nombre dos ejemplos de lípidos y cite una función de cada uno de\nellos que desempeñen en los seres vivos [1]. Explique el carácter anfipático de los ácidos grasos\n[0,6].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.2.F_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 2,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "Defina mitosis [0,3] e indique cuál es su significado biológico [0,3]. ¿En qué tipo de células de un\norganismo pluricelular tiene lugar? [0,2]. Explique sus diferentes fases [1,2]",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.3.F_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 3,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "Enumere cinco componentes (células o moléculas) del sistema inmunitario [0,5] e indique la función de\ncada uno de ellos [1,5].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.4.F_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 4,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "En la figura 1 se representa un tubo en U cuyas ramas están\nseparadas por una membrana semipermeable. La\nconcentración salina es mayor en la rama B y menor en la A.\nTeniendo esto en cuenta, y una vez que haya transcurrido\ncierto tiempo, ¿cuál de las dos figuras, 2 ó 3, esperaría",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.5.F_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 5,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "La replicación del ADN se realiza de forma continua en una cadena y discontinua en la otra. ¿Cuál es\nla razón? [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.6.F_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 6,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "En relación con la figura adjunta, responda las siguientes preguntas:\na).- ¿Qué orgánulo representa la figura? [0,25]. ¿En\nqué tipo de células se encuentra? [0,25]. Nombre\nlos componentes o estructuras señalados con\nnúmeros [0,5].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    }
+  ]
+}

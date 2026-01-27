@@ -1,0 +1,151 @@
+{
+  "exam_code": "A",
+  "anio": 2008,
+  "universidad": "Andalucía",
+  "questions": [
+    {
+      "id": "A.1.A_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 1,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Dibuje una mitocondria indicando el nombre de cinco de sus componentes [0,5]. Describa brevemente\nla cadena de transporte electrónico y la fosforilación oxidativa e indique en qué lugar de la\nmitocondria se realizan estos procesos [1,5].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.2.A_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 2,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Defina el concepto de mutación [0,6]. Diferencie entre mutación espontánea e inducida [0,5]. Cite un\nejemplo de un agente mutagénico físico, uno químico y uno biológico [0,3]. Indique y defina otro\nmecanismo que produzca variabilidad genética [0,6].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.3.A_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 3,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Describa la estructura de un bacteriófago [1] y cite cinco componentes estructurales de la célula a la\nque infecta [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.4.A_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 4,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Las moléculas lipídicas pueden, en general, entrar o salir de las células atravesando sin dificultad las\nmembranas celulares, y sin embargo los iones no, aún siendo mucho más pequeños. Dé una\nexplicación razonada a este hecho [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.5.A_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 5,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Ordene cronológicamente [0,5] e indique en qué fase de la mitosis [0,5] tienen lugar los siguientes\nprocesos: a) migración de cromátidas hermanas a los polos, b) organización de los cromosomas en\nel plano ecuatorial, c) rotura de la envoltura nuclear, d) condensación de la cromatina para formar los\ncromosomas y e) descondensación de los cromosomas.",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.6.A_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 6,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "En relación con las imágenes adjuntas, responda las siguientes preguntas:\n1 2\nA E\nB C D\na).- ¿Qué tipo de molécula se representa en los cuadros 1 y 2? [0,2]. Identifique los componentes A, B, C",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.1.A_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 1,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "Describa los distintos niveles estructurales de las proteínas indicando los tipos de enlaces,\ninteracciones y fuerzas que las estabilizan [1,5]. Explique en qué consiste la desnaturalización y la\nrenaturalización de las proteínas [0,5].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.2.A_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 2,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "Indique dónde se localizan las siguientes funciones o procesos en una célula eucariótica: a) síntesis\nde proteínas; b) glucólisis; c) ciclo de Krebs; d) ciclo de Calvin; e) transcripción; f) transformación de\nenergía luminosa en energía química; g) cadena respiratoria; h) digestión de materiales captados por\nendocitosis; i) β-oxidación de los ácidos grasos; j) síntesis de lípidos [2].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.3.A_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 3,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "Defina los siguientes términos: antígeno, macrófago, linfocito B, vacuna, inmunodeficiencia [2].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.4.A_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 4,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "Las plantas utilizan como reserva energética los polisacáridos y las grasas, mientras que los animales\nutilizan como principal reserva de energía las grasas. Exponga la ventaja que supone para los\nanimales el hecho de tener abundantes reservas de grasas y escasas reservas de polisacáridos.\nRazone la respuesta [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.5.A_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 5,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "El esquema representa los dos cromosomas homólogos de un\ndihíbrido para dos genes con dos alelos (A,a; B,b) en el\nperíodo G2 de la interfase previa a su división meiótica. A\npartir de esta célula y suponiendo que se da un\nsobrecruzamiento (quiasma) entre ambos genes, dibuje las",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.6.A_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 6,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "En relación con la imagen adjunta, responda las siguientes preguntas:\na).- ¿Identifique los orgánulos A y B? [0,4].\nIndique dos funciones del orgánulo A y dos\ndel orgánulo B [0,6].\nb).- ¿Cuál es el destino de la estructura que",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    }
+  ]
+}

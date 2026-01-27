@@ -1,0 +1,151 @@
+{
+  "exam_code": "C",
+  "anio": 2008,
+  "universidad": "Andalucía",
+  "questions": [
+    {
+      "id": "A.1.C_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 1,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Defina disacárido, triacilglicérido, proteína y nucleótido [2].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.2.C_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 2,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Explique brevemente los procesos básicos que se producen en las distintas fases de la fotosíntesis\n[1]. Indique la localización de los fotosistemas en el cloroplasto y explique cómo funciona un\nfotosistema [0,5]. Explique el mecanismo de obtención de ATP en el proceso fotosintético [0,5].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.3.C_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 3,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Explique el concepto de recombinación genética [1]. ¿En qué tipo de células se produce y en qué\netapa de la división tiene lugar? [0,5]. ¿Cuál es su importancia biológica? [0,5].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.4.C_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 4,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Los glóbulos rojos de humanos, tras perder su núcleo, pueden seguir siendo viables durante 120 días.\nProponga una explicación razonada que justifique este hecho [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.5.C_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 5,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Exponga razonadamente por qué no es aconsejable el uso de antibióticos que inhiban la síntesis de\nproteínas bacterianas para el tratamiento de ciertas enfermedades como las de los procesos virales\n[1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.6.C_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 6,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "En relación con la figura adjunta, responda las siguientes preguntas:\na).- ¿Qué proceso biológico\nrepresenta la figura? [0,3].\nIndique la composición\nquímica del organismo",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.1.C_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 1,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "Describa la estructura de la molécula del agua, represéntela mediante un esquema [0,7], e indique el\ntipo de enlace que se establece entre dos moléculas de agua [0,3]. Enumere cuatro propiedades\nfísico-químicas del agua y relaciónelas con sus funciones biológicas [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.2.C_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 2,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "Defina mitosis [0,5] y describa lo que ocurre en cada una de sus fases [1]. Defina citocinesis [0,5].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.3.C_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 3,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "Exponga el concepto de antígeno [0,25]. Indique la composición química de las inmunoglobulinas\n[0,25]. ¿Qué hecho desencadena su producción? [0,25]. ¿Cuál es su función? [0,25]. ¿Qué células\nlas producen? [0,25]. ¿Dónde se originan estas células? [0,25]. Dibuje una inmunoglobulina\nindicando sus cadenas y regiones [0,5].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.4.C_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 4,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "En las plantas predominan los ácidos grasos insaturados mientras que en los animales homeotermos\n(de sangre caliente) predominan los ácidos grasos saturados. Justifique razonadamente esta\nafirmación [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.5.C_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 5,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "En una determinada especie de roedores, el pelo negro está determinado por un alelo dominante (A) y\nel pelo de color marrón por un alelo recesivo (a). ¿Qué tipo de cruzamiento se debería realizar con un\nejemplar de pelo negro para poder averiguar su genotipo? Razone la respuesta [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.6.C_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 6,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "En relación con la figura adjunta, responda las siguientes preguntas:\na).- Identifique y describa los tipos de transporte indicados con los números 1 y 2 [1].\nb).- Identifique y describa los tipos de transporte indicados con los números 3 y 4 [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    }
+  ]
+}

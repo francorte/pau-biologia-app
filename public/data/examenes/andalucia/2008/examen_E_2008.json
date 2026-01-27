@@ -1,0 +1,151 @@
+{
+  "exam_code": "E",
+  "anio": 2008,
+  "universidad": "Andalucía",
+  "questions": [
+    {
+      "id": "A.1.E_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 1,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Explique la composición y estructura de los triacilglicéridos y de los fosfolípidos e indique el nombre de\nlos enlaces que se establecen entre sus componentes [1]. Explique por qué son lípidos saponificables\n[0,5]. Indique qué propiedad de los fosfolípidos les permite formar la estructura básica de las\nmembranas celulares [0,5].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.2.E_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 2,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Defina: difusión simple, difusión facilitada, transporte activo, pinocitosis y fagocitosis [2].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.3.E_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 3,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Explique en qué consisten los siguientes procesos: mutación [0,3], recombinación [0,3] y segregación\ncromosómica [0,2]. Describa la importancia biológica de cada uno de ellos en la evolución [1,2].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.4.E_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 4,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "El colágeno es una proteína de aspecto blanquecino que forma parte de estructuras resistentes como\nlos tendones. Al hervir el colágeno se obtiene gelatina que es una sustancia muy blanda. Explique\nrazonadamente la causa de este cambio [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.5.E_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 5,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Según el sistema AB0 de los grupos sanguíneos humanos, los individuos con sangre del grupo AB\npresentan en la superficie de sus eritrocitos antígenos de tipo A y antígenos de tipo B, mientras que\nlos individuos con sangre del grupo 0 no presentan estos antígenos. ¿Por qué en el caso de\ntransfusiones sanguíneas a los individuos con sangre del grupo AB se les considera receptores\nuniversales y a los del tipo 0 donantes universales? Razone la respuesta [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.6.E_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 6,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "En relación con la figura adjunta, responda las siguientes preguntas:\na).- Nombre las estructuras señaladas con los\nnúmeros 1 al 6 [0,6]. Indique una función\nde las estructuras señaladas con los\nnúmeros 2 y 6 [0,4].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.1.E_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 1,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "Defina los siguientes términos: aldosa, cetosa, enlace glucosídico, enlace peptídico, enlace\nfosfodiéster [2].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.2.E_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 2,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "Defina los conceptos de anabolismo y catabolismo [0,5]. Describa la fosforilación oxidativa y la\nfotofosforilación [1], e indique en qué lugar de la célula se realizan [0,5].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.3.E_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 3,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "Indique qué son los virus [0,5]. Describa el ciclo lítico de un bacteriófago [1,2]. Explique la diferencia\nprincipal entre el ciclo lítico y el ciclo lisogénico [0,3].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.4.E_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 4,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "Muchos anticancerígenos son drogas que impiden la organización (polimerización o\ndespolimerización) de los microtúbulos. Justifique razonadamente esta afirmación [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.5.E_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 5,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "¿Cómo se puede explicar que una célula típica de nuestro cuerpo posea unas 10.000 clases\ndiferentes de proteínas si el número de aminoácidos distintos es solamente de 20? Razone la\nrespuesta [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.6.E_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 6,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "En relación con la figura adjunta, responda las siguientes preguntas::\na).- ¿Qué representa la\ngráfica I [0,2]. ¿A qué\ntipo de división celular\ncorresponde? [0,2].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    }
+  ]
+}

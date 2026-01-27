@@ -1,0 +1,151 @@
+{
+  "exam_code": "D",
+  "anio": 2008,
+  "universidad": "Andalucía",
+  "questions": [
+    {
+      "id": "A.1.D_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 1,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Defina digestión celular [0,5]. Describa el proceso de fagocitosis que va desde la ingestión de una\nbacteria por un macrófago hasta su digestión [1,5].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.2.D_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 2,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Indique la composición química del ADN [0,2] y explique el modelo de doble hélice [1]. Describa cómo\nse empaqueta el ADN para formar un cromosoma [0,5] y señale en un dibujo sencillo las cromátidas,\nlos brazos y el centrómero de un cromosoma [0,3].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.3.D_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 3,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "Defina los términos antígeno y anticuerpo [0,8]. Describa la naturaleza química de ambos [0,8].\nJustifique el hecho de que un anticuerpo pueda comportarse como un antígeno [0,4].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.4.D_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 4,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "En la siguiente curva se representa una cinética\nenzimática mostrando la velocidad de reacción\nrespecto a la cantidad de sustrato, con una\nconcentración de enzima constante. ¿De qué manera\nx",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.5.D_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 5,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "La fermentación láctica es un proceso anaeróbico que llevan a cabo ciertos microorganismos. ¿Por\nqué se realiza en determinadas condiciones en el tejido muscular humano? Razone la respuesta [1].\nnóiccaer\ned\ndadicoleV",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.6.D_A",
+      "bloque_oficial": "Por clasificar",
+      "numero": 6,
+      "opcion": "A",
+      "anio": 2008,
+      "enunciado": "En relación con la figura adjunta, responda las siguientes preguntas:\na).- ¿Qué representa la figura en su conjunto? [0,2]. Indique el tipo de estructura señalado con el\nnúmero 1, el tipo de monómeros que la forman y el enlace que la caracteriza [0,4]. Nombre las\nestructura señaladas con los números 2, 3, 4 y 5 [0,4].\nb).- Describa los cambios fundamentales que ocurren desde 1 hasta 5 [0,7]. ¿Cómo afectan los",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.1.D_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 1,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "Indique la composición química y una función de las siguientes biomoléculas: polisacáridos [0,5],\nfosfolípidos [0,5], proteínas [0,5], ácido desoxirribonucleico [0,5].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.2.D_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 2,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "Defina fotosíntesis y quimiosíntesis [0,4]. Indique dos diferencias entre estos procesos [0,4]. Explique\nla fase dependiente de la luz (fase luminosa) de la fotosíntesis [1,2].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.3.D_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 3,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "Describa el ciclo lisogénico de un bacteriófago realizando un dibujo de cada una de las etapas [2].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.4.D_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 4,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "Una pareja de fenotipo normal para la pigmentación tiene un hijo albino. Explique el modo de herencia\ndel albinismo e indique los genotipos de los padres y del hijo [0,5]. ¿Qué proporción de hijos no\nalbinos se puede esperar en la descendencia? [0,25]. ¿Y de hijos albinos? [0,25]. Razone las\nrespuestas.",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.5.D_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 5,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "El polen es un cuerpo extraño para el organismo. En los países desarrollados, se estima que un 15%\no más de la población sufre alergia al polen. ¿Significa esto que los alérgicos padecen de\ninmunodeficiencia? Razone la respuesta [1].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    },
+    {
+      "id": "A.6.D_B",
+      "bloque_oficial": "Por clasificar",
+      "numero": 6,
+      "opcion": "B",
+      "anio": 2008,
+      "enunciado": "En relación con la figura adjunta, responda las siguientes preguntas:\na).- Nombre las moléculas representadas con los números 1, 2, 3, y 5 [0,4]. ¿Qué procesos se\ndesarrollan en el núcleo? [0,3]. Comente los cambios que ocurren entre las moléculas indicadas\ncon los números 3 y 5 [0,3].\nb).- ¿Qué representan los números 6 y 7? [0,2]. ¿Qué proceso se desarrolla en el citoplasma? [0,2].",
+      "apartados": [],
+      "respuesta_modelo": "",
+      "observaciones": "Respuesta pendiente de añadir",
+      "etiquetas": []
+    }
+  ]
+}
