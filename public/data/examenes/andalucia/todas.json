@@ -1,14 +1,1955 @@
-[{"id": "PAU BIO ANDALUCIA 2008 1", "bloque_oficial": {"codigo": "C", "nombre": "Biolog\u00eda celular"}, "apartados": [], "puntuacion_total": 2, "etiquetas": ["mitocondria", "metabolismo"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2008, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Estructura mitocondrial y energ\u00eda"}}, {"id": "PAU BIO ANDALUCIA 2008 2", "bloque_oficial": {"codigo": "B", "nombre": "Gen\u00e9tica molecular"}, "apartados": [], "puntuacion_total": 2, "etiquetas": ["mutaciones", "variabilidad"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2008, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Mutaciones y variabilidad gen\u00e9tica"}}, {"id": "PAU BIO ANDALUCIA 2008 3", "bloque_oficial": {"codigo": "E", "nombre": "Biotecnolog\u00eda"}, "apartados": [], "puntuacion_total": 2, "etiquetas": ["bacteri\u00f3fago"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2008, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Bacteri\u00f3fagos"}}, {"id": "PAU BIO ANDALUCIA 2008 4", "bloque_oficial": {"codigo": "C", "nombre": "Biolog\u00eda celular"}, "apartados": [], "puntuacion_total": 1, "etiquetas": ["membrana", "transporte"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2008, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Transporte de l\u00edpidos vs iones"}}, {"id": "PAU BIO ANDALUCIA 2008 5", "bloque_oficial": {"codigo": "C", "nombre": "Biolog\u00eda celular"}, "apartados": [], "puntuacion_total": 1, "etiquetas": ["mitosis", "fases"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2008, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Fases de mitosis"}}, {"id": "PAU BIO ANDALUCIA 2008 6", "bloque_oficial": {"codigo": "A", "nombre": "Biomol\u00e9culas"}, "apartados": [], "puntuacion_total": 2, "etiquetas": ["nucle\u00f3tidos", "ADN", "ARN"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2008, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Nucle\u00f3tidos y macromol\u00e9culas"}}, {"id": "PAU BIO ANDALUCIA 2008 B1", "bloque_oficial": {"codigo": "A", "nombre": "Biomol\u00e9culas"}, "apartados": [], "puntuacion_total": 2, "etiquetas": ["prote\u00ednas", "estructura"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2008, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Opci\u00f3n B: Estructura de prote\u00ednas"}}, {"id": "PAU BIO ANDALUCIA 2008 B2", "bloque_oficial": {"codigo": "D", "nombre": "Metabolismo"}, "apartados": [], "puntuacion_total": 2, "etiquetas": ["metabolismo", "localizaci\u00f3n"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2008, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Opci\u00f3n B: Localizaci\u00f3n de procesos"}}, {"id": "PAU BIO ANDALUCIA 2008 B3", "bloque_oficial": {"codigo": "F", "nombre": "Inmunolog\u00eda"}, "apartados": [], "puntuacion_total": 2, "etiquetas": ["inmunolog\u00eda"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2008, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "cerrada", "tipo_respuesta": "cerrada", "observaciones": "Opci\u00f3n B: Definiciones"}}, {"id": "PAU BIO ANDALUCIA 2008 B4", "bloque_oficial": {"codigo": "D", "nombre": "Metabolismo"}, "apartados": [], "puntuacion_total": 1, "etiquetas": ["energ\u00eda", "reservas"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2008, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Opci\u00f3n B: Reservas energ\u00e9ticas"}}, {"id": "PAU BIO ANDALUCIA 2008 B5", "bloque_oficial": {"codigo": "B", "nombre": "Gen\u00e9tica molecular"}, "apartados": [], "puntuacion_total": 1, "etiquetas": ["meiosis"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2008, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Opci\u00f3n B: Meiosis"}}, {"id": "PAU BIO ANDALUCIA 2008 B6", "bloque_oficial": {"codigo": "C", "nombre": "Biolog\u00eda celular"}, "apartados": [], "puntuacion_total": 2, "etiquetas": ["org\u00e1nulos"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2008, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Opci\u00f3n B: Org\u00e1nulos"}}]
-
-{"id": "PAU_BIO_ANDALUCIA_2016_1", "bloque_oficial": {"codigo": "A", "nombre": "Biomol\u00e9culas"}, "apartados": [], "puntuacion_total": 2, "etiquetas": ["biomol\u00e9culas"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2016, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": ""}}
-{"id": "PAU_BIO_ANDALUCIA_2016_2", "bloque_oficial": {"codigo": "A", "nombre": "Biomol\u00e9culas"}, "apartados": [], "puntuacion_total": 2, "etiquetas": ["biomol\u00e9culas"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2016, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": ""}}
-{"id": "PAU_BIO_ANDALUCIA_2016_3", "bloque_oficial": {"codigo": "C", "nombre": "Biolog\u00eda celular"}, "apartados": [], "puntuacion_total": 2, "etiquetas": ["biolog\u00eda celular"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2016, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": ""}}
-{"id": "PAU_BIO_ANDALUCIA_2016_4", "bloque_oficial": {"codigo": "C", "nombre": "Biolog\u00eda celular"}, "apartados": [], "puntuacion_total": 2, "etiquetas": ["biolog\u00eda celular"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2016, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": ""}}
-{"id": "PAU_BIO_ANDALUCIA_2016_5", "bloque_oficial": {"codigo": "B", "nombre": "Gen\u00e9tica molecular"}, "apartados": [], "puntuacion_total": 2, "etiquetas": ["expresi\u00f3n g\u00e9nica"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2016, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": ""}}
-{"id": "PAU_BIO_ANDALUCIA_2016_6", "bloque_oficial": {"codigo": "B", "nombre": "Gen\u00e9tica molecular"}, "apartados": [], "puntuacion_total": 2, "etiquetas": ["expresi\u00f3n g\u00e9nica"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2016, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": ""}}
-{"id": "PAU_BIO_ANDALUCIA_2016_7", "bloque_oficial": {"codigo": "D", "nombre": "Metabolismo"}, "apartados": [], "puntuacion_total": 2, "etiquetas": ["metabolismo"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2016, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": ""}}
-{"id": "PAU_BIO_ANDALUCIA_2016_8", "bloque_oficial": {"codigo": "D", "nombre": "Metabolismo"}, "apartados": [], "puntuacion_total": 2, "etiquetas": ["metabolismo"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2016, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": ""}}
-{"id": "PAU_BIO_ANDALUCIA_2016_9", "bloque_oficial": {"codigo": "F", "nombre": "Inmunolog\u00eda"}, "apartados": [], "puntuacion_total": 2, "etiquetas": ["inmunolog\u00eda"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2016, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": ""}}
-{"id": "PAU_BIO_ANDALUCIA_2016_10", "bloque_oficial": {"codigo": "F", "nombre": "Inmunolog\u00eda"}, "apartados": [], "puntuacion_total": 2, "etiquetas": ["inmunolog\u00eda"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2016, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": ""}}
-{"id": "PAU_BIO_ANDALUCIA_2016_11", "bloque_oficial": {"codigo": "C", "nombre": "Biolog\u00eda celular"}, "apartados": [], "puntuacion_total": 2, "etiquetas": ["biolog\u00eda celular"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2016, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": ""}}
-{"id": "PAU_BIO_ANDALUCIA_2016_12", "bloque_oficial": {"codigo": "C", "nombre": "Biolog\u00eda celular"}, "apartados": [], "puntuacion_total": 2, "etiquetas": ["biolog\u00eda celular"], "origen_historico": [{"comunidad": "Andaluc\u00eda", "anio": 2016, "convocatoria": "Ordinaria"}], "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": ""}}
+[
+  {
+    "id": "PAU BIO ANDALUCIA 2008 1",
+    "bloque_oficial": {
+      "codigo": "C",
+      "nombre": "Biología celular"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [
+      "mitocondria",
+      "metabolismo"
+    ],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "observaciones": "Estructura mitocondrial y energía"
+    }
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 2",
+    "bloque_oficial": {
+      "codigo": "B",
+      "nombre": "Genética molecular"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [
+      "mutaciones",
+      "variabilidad"
+    ],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "observaciones": "Mutaciones y variabilidad genética"
+    }
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 3",
+    "bloque_oficial": {
+      "codigo": "E",
+      "nombre": "Biotecnología"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [
+      "bacteriófago"
+    ],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "observaciones": "Bacteriófagos"
+    }
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 4",
+    "bloque_oficial": {
+      "codigo": "C",
+      "nombre": "Biología celular"
+    },
+    "apartados": [],
+    "puntuacion_total": 1,
+    "etiquetas": [
+      "membrana",
+      "transporte"
+    ],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "observaciones": "Transporte de lípidos vs iones"
+    }
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 5",
+    "bloque_oficial": {
+      "codigo": "C",
+      "nombre": "Biología celular"
+    },
+    "apartados": [],
+    "puntuacion_total": 1,
+    "etiquetas": [
+      "mitosis",
+      "fases"
+    ],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "observaciones": "Fases de mitosis"
+    }
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 6",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Biomoléculas"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [
+      "nucleótidos",
+      "ADN",
+      "ARN"
+    ],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "observaciones": "Nucleótidos y macromoléculas"
+    }
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 B1",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Biomoléculas"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [
+      "proteínas",
+      "estructura"
+    ],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "observaciones": "Opción B: Estructura de proteínas"
+    }
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 B2",
+    "bloque_oficial": {
+      "codigo": "D",
+      "nombre": "Metabolismo"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [
+      "metabolismo",
+      "localización"
+    ],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "observaciones": "Opción B: Localización de procesos"
+    }
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 B3",
+    "bloque_oficial": {
+      "codigo": "F",
+      "nombre": "Inmunología"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [
+      "inmunología"
+    ],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "cerrada",
+      "tipo_respuesta": "cerrada",
+      "observaciones": "Opción B: Definiciones"
+    }
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 B4",
+    "bloque_oficial": {
+      "codigo": "D",
+      "nombre": "Metabolismo"
+    },
+    "apartados": [],
+    "puntuacion_total": 1,
+    "etiquetas": [
+      "energía",
+      "reservas"
+    ],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "observaciones": "Opción B: Reservas energéticas"
+    }
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 B5",
+    "bloque_oficial": {
+      "codigo": "B",
+      "nombre": "Genética molecular"
+    },
+    "apartados": [],
+    "puntuacion_total": 1,
+    "etiquetas": [
+      "meiosis"
+    ],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "observaciones": "Opción B: Meiosis"
+    }
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 B6",
+    "bloque_oficial": {
+      "codigo": "C",
+      "nombre": "Biología celular"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [
+      "orgánulos"
+    ],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "observaciones": "Opción B: Orgánulos"
+    }
+  },
+  {
+    "id": "A.1.A_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Dibuje una mitocondria indicando el nombre de cinco de sus componentes [0,5]. Describa brevemente\nla cadena de transporte electrónico y la fosforilación oxidativa e indique en qué lugar de la\nmitocondria se realizan estos procesos [1,5].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.2.A_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Defina el concepto de mutación [0,6]. Diferencie entre mutación espontánea e inducida [0,5]. Cite un\nejemplo de un agente mutagénico físico, uno químico y uno biológico [0,3]. Indique y defina otro\nmecanismo que produzca variabilidad genética [0,6].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.3.A_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Describa la estructura de un bacteriófago [1] y cite cinco componentes estructurales de la célula a la\nque infecta [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.4.A_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Las moléculas lipídicas pueden, en general, entrar o salir de las células atravesando sin dificultad las\nmembranas celulares, y sin embargo los iones no, aún siendo mucho más pequeños. Dé una\nexplicación razonada a este hecho [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.5.A_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Ordene cronológicamente [0,5] e indique en qué fase de la mitosis [0,5] tienen lugar los siguientes\nprocesos: a) migración de cromátidas hermanas a los polos, b) organización de los cromosomas en\nel plano ecuatorial, c) rotura de la envoltura nuclear, d) condensación de la cromatina para formar los\ncromosomas y e) descondensación de los cromosomas.",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.6.A_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "En relación con las imágenes adjuntas, responda las siguientes preguntas:\n1 2\nA E\nB C D\na).- ¿Qué tipo de molécula se representa en los cuadros 1 y 2? [0,2]. Identifique los componentes A, B, C",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.1.A_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Describa los distintos niveles estructurales de las proteínas indicando los tipos de enlaces,\ninteracciones y fuerzas que las estabilizan [1,5]. Explique en qué consiste la desnaturalización y la\nrenaturalización de las proteínas [0,5].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.2.A_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Indique dónde se localizan las siguientes funciones o procesos en una célula eucariótica: a) síntesis\nde proteínas; b) glucólisis; c) ciclo de Krebs; d) ciclo de Calvin; e) transcripción; f) transformación de\nenergía luminosa en energía química; g) cadena respiratoria; h) digestión de materiales captados por\nendocitosis; i) β-oxidación de los ácidos grasos; j) síntesis de lípidos [2].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.3.A_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Defina los siguientes términos: antígeno, macrófago, linfocito B, vacuna, inmunodeficiencia [2].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.4.A_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Las plantas utilizan como reserva energética los polisacáridos y las grasas, mientras que los animales\nutilizan como principal reserva de energía las grasas. Exponga la ventaja que supone para los\nanimales el hecho de tener abundantes reservas de grasas y escasas reservas de polisacáridos.\nRazone la respuesta [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.5.A_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "El esquema representa los dos cromosomas homólogos de un\ndihíbrido para dos genes con dos alelos (A,a; B,b) en el\nperíodo G2 de la interfase previa a su división meiótica. A\npartir de esta célula y suponiendo que se da un\nsobrecruzamiento (quiasma) entre ambos genes, dibuje las",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.6.A_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "En relación con la imagen adjunta, responda las siguientes preguntas:\na).- ¿Identifique los orgánulos A y B? [0,4].\nIndique dos funciones del orgánulo A y dos\ndel orgánulo B [0,6].\nb).- ¿Cuál es el destino de la estructura que",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.1.B_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Enumere tres factores que influyen en la actividad enzimática [0,6]. Explique detalladamente el efecto\nde dos de ellos [1,4].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.2.B_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Defina los siguientes componentes de la célula eucariótica e indique una función de cada uno de ellos:\npared celular, membrana plasmática, retículo endoplasmático y lisosoma [2].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.3.B_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Exponga las consecuencias biológicas de la mitosis y de la meiosis [1]. Explique las distintas fases de\nla mitosis [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.4.B_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "La leche condensada se obtiene de leche a la que se le elimina parte del agua y se le añade gran\ncantidad de azúcar. Una vez abierto, un bote de leche condensada puede conservarse varios días\nfuera del frigorífico sin que crezcan microorganismos ¿Por qué? Razone la respuesta [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.5.B_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "La información genética de los retrovirus, que está en forma de ARN, puede insertarse en el ADN de\nla célula huésped. Dé una explicación razonada a este hecho [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.6.B_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "El siguiente esquema representa la cantidad de anticuerpo en la sangre tras la inyección de dos\nantígenos diferentes:\na).- Explique a qué se debe la mayor\nrespuesta frente al antígeno A\ntras la segunda inyección [0,5].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.1.B_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Defina qué son los monosacáridos [0,6]. Indique el nombre que reciben en función del número de\nátomos de carbono [0,5]. Cite dos funciones biológicas de los monosacáridos [0,4]. Nombre dos\npolisacáridos importantes y la función que realizan [0,5].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.2.B_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Describa la estructura de las mitocondrias [1] e indique en qué parte de las mismas se llevan a cabo\nlas distintas reacciones metabólicas que éstas realizan [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.3.B_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Defina inmunidad humoral e inmunidad celular [0,8]. Describa las principales características de cada\nuna de ellas [1,2].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.4.B_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "La tubulina interviene en mecanismos fundamentales de la división celular, razón por la cual resulta\nclave en el desarrollo de procesos cancerígenos. Explique la relación existente entre: moléculas de\ntubulina-división celular-procesos cancerígenos. Razone la respuesta [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.5.B_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "El color de la flor de un tipo de violetas está determinado por un gen con dos alelos con herencia\nintermedia. El alelo R determina el color rojo y el alelo r determina el color blanco. Las plantas\nheterocigóticas tienen flores rosas. En los cruzamientos Rr x RR; rr x Rr; Rr x Rr indique qué\ngametos se formarán en cada parental y cuál será el fenotipo de las flores en la siguiente generación\n[1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.6.B_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "En relación con la figura adjunta, responda las siguientes preguntas:\na).- Indique cuáles son las estructuras\ny/o moléculas señaladas con los\nnúmeros 1 al 7 [0,7], e identifique los\nprocesos señalados con las letras A",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.1.C_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Defina disacárido, triacilglicérido, proteína y nucleótido [2].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.2.C_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Explique brevemente los procesos básicos que se producen en las distintas fases de la fotosíntesis\n[1]. Indique la localización de los fotosistemas en el cloroplasto y explique cómo funciona un\nfotosistema [0,5]. Explique el mecanismo de obtención de ATP en el proceso fotosintético [0,5].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.3.C_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Explique el concepto de recombinación genética [1]. ¿En qué tipo de células se produce y en qué\netapa de la división tiene lugar? [0,5]. ¿Cuál es su importancia biológica? [0,5].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.4.C_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Los glóbulos rojos de humanos, tras perder su núcleo, pueden seguir siendo viables durante 120 días.\nProponga una explicación razonada que justifique este hecho [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.5.C_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Exponga razonadamente por qué no es aconsejable el uso de antibióticos que inhiban la síntesis de\nproteínas bacterianas para el tratamiento de ciertas enfermedades como las de los procesos virales\n[1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.6.C_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "En relación con la figura adjunta, responda las siguientes preguntas:\na).- ¿Qué proceso biológico\nrepresenta la figura? [0,3].\nIndique la composición\nquímica del organismo",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.1.C_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Describa la estructura de la molécula del agua, represéntela mediante un esquema [0,7], e indique el\ntipo de enlace que se establece entre dos moléculas de agua [0,3]. Enumere cuatro propiedades\nfísico-químicas del agua y relaciónelas con sus funciones biológicas [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.2.C_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Defina mitosis [0,5] y describa lo que ocurre en cada una de sus fases [1]. Defina citocinesis [0,5].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.3.C_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Exponga el concepto de antígeno [0,25]. Indique la composición química de las inmunoglobulinas\n[0,25]. ¿Qué hecho desencadena su producción? [0,25]. ¿Cuál es su función? [0,25]. ¿Qué células\nlas producen? [0,25]. ¿Dónde se originan estas células? [0,25]. Dibuje una inmunoglobulina\nindicando sus cadenas y regiones [0,5].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.4.C_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "En las plantas predominan los ácidos grasos insaturados mientras que en los animales homeotermos\n(de sangre caliente) predominan los ácidos grasos saturados. Justifique razonadamente esta\nafirmación [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.5.C_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "En una determinada especie de roedores, el pelo negro está determinado por un alelo dominante (A) y\nel pelo de color marrón por un alelo recesivo (a). ¿Qué tipo de cruzamiento se debería realizar con un\nejemplar de pelo negro para poder averiguar su genotipo? Razone la respuesta [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.6.C_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "En relación con la figura adjunta, responda las siguientes preguntas:\na).- Identifique y describa los tipos de transporte indicados con los números 1 y 2 [1].\nb).- Identifique y describa los tipos de transporte indicados con los números 3 y 4 [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.1.D_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Defina digestión celular [0,5]. Describa el proceso de fagocitosis que va desde la ingestión de una\nbacteria por un macrófago hasta su digestión [1,5].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.2.D_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Indique la composición química del ADN [0,2] y explique el modelo de doble hélice [1]. Describa cómo\nse empaqueta el ADN para formar un cromosoma [0,5] y señale en un dibujo sencillo las cromátidas,\nlos brazos y el centrómero de un cromosoma [0,3].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.3.D_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Defina los términos antígeno y anticuerpo [0,8]. Describa la naturaleza química de ambos [0,8].\nJustifique el hecho de que un anticuerpo pueda comportarse como un antígeno [0,4].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.4.D_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "En la siguiente curva se representa una cinética\nenzimática mostrando la velocidad de reacción\nrespecto a la cantidad de sustrato, con una\nconcentración de enzima constante. ¿De qué manera\nx",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.5.D_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "La fermentación láctica es un proceso anaeróbico que llevan a cabo ciertos microorganismos. ¿Por\nqué se realiza en determinadas condiciones en el tejido muscular humano? Razone la respuesta [1].\nnóiccaer\ned\ndadicoleV",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.6.D_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "En relación con la figura adjunta, responda las siguientes preguntas:\na).- ¿Qué representa la figura en su conjunto? [0,2]. Indique el tipo de estructura señalado con el\nnúmero 1, el tipo de monómeros que la forman y el enlace que la caracteriza [0,4]. Nombre las\nestructura señaladas con los números 2, 3, 4 y 5 [0,4].\nb).- Describa los cambios fundamentales que ocurren desde 1 hasta 5 [0,7]. ¿Cómo afectan los",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.1.D_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Indique la composición química y una función de las siguientes biomoléculas: polisacáridos [0,5],\nfosfolípidos [0,5], proteínas [0,5], ácido desoxirribonucleico [0,5].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.2.D_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Defina fotosíntesis y quimiosíntesis [0,4]. Indique dos diferencias entre estos procesos [0,4]. Explique\nla fase dependiente de la luz (fase luminosa) de la fotosíntesis [1,2].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.3.D_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Describa el ciclo lisogénico de un bacteriófago realizando un dibujo de cada una de las etapas [2].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.4.D_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Una pareja de fenotipo normal para la pigmentación tiene un hijo albino. Explique el modo de herencia\ndel albinismo e indique los genotipos de los padres y del hijo [0,5]. ¿Qué proporción de hijos no\nalbinos se puede esperar en la descendencia? [0,25]. ¿Y de hijos albinos? [0,25]. Razone las\nrespuestas.",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.5.D_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "El polen es un cuerpo extraño para el organismo. En los países desarrollados, se estima que un 15%\no más de la población sufre alergia al polen. ¿Significa esto que los alérgicos padecen de\ninmunodeficiencia? Razone la respuesta [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.6.D_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "En relación con la figura adjunta, responda las siguientes preguntas:\na).- Nombre las moléculas representadas con los números 1, 2, 3, y 5 [0,4]. ¿Qué procesos se\ndesarrollan en el núcleo? [0,3]. Comente los cambios que ocurren entre las moléculas indicadas\ncon los números 3 y 5 [0,3].\nb).- ¿Qué representan los números 6 y 7? [0,2]. ¿Qué proceso se desarrolla en el citoplasma? [0,2].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.1.E_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Explique la composición y estructura de los triacilglicéridos y de los fosfolípidos e indique el nombre de\nlos enlaces que se establecen entre sus componentes [1]. Explique por qué son lípidos saponificables\n[0,5]. Indique qué propiedad de los fosfolípidos les permite formar la estructura básica de las\nmembranas celulares [0,5].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.2.E_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Defina: difusión simple, difusión facilitada, transporte activo, pinocitosis y fagocitosis [2].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.3.E_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Explique en qué consisten los siguientes procesos: mutación [0,3], recombinación [0,3] y segregación\ncromosómica [0,2]. Describa la importancia biológica de cada uno de ellos en la evolución [1,2].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.4.E_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "El colágeno es una proteína de aspecto blanquecino que forma parte de estructuras resistentes como\nlos tendones. Al hervir el colágeno se obtiene gelatina que es una sustancia muy blanda. Explique\nrazonadamente la causa de este cambio [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.5.E_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Según el sistema AB0 de los grupos sanguíneos humanos, los individuos con sangre del grupo AB\npresentan en la superficie de sus eritrocitos antígenos de tipo A y antígenos de tipo B, mientras que\nlos individuos con sangre del grupo 0 no presentan estos antígenos. ¿Por qué en el caso de\ntransfusiones sanguíneas a los individuos con sangre del grupo AB se les considera receptores\nuniversales y a los del tipo 0 donantes universales? Razone la respuesta [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.6.E_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "En relación con la figura adjunta, responda las siguientes preguntas:\na).- Nombre las estructuras señaladas con los\nnúmeros 1 al 6 [0,6]. Indique una función\nde las estructuras señaladas con los\nnúmeros 2 y 6 [0,4].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.1.E_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Defina los siguientes términos: aldosa, cetosa, enlace glucosídico, enlace peptídico, enlace\nfosfodiéster [2].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.2.E_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Defina los conceptos de anabolismo y catabolismo [0,5]. Describa la fosforilación oxidativa y la\nfotofosforilación [1], e indique en qué lugar de la célula se realizan [0,5].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.3.E_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Indique qué son los virus [0,5]. Describa el ciclo lítico de un bacteriófago [1,2]. Explique la diferencia\nprincipal entre el ciclo lítico y el ciclo lisogénico [0,3].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.4.E_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Muchos anticancerígenos son drogas que impiden la organización (polimerización o\ndespolimerización) de los microtúbulos. Justifique razonadamente esta afirmación [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.5.E_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "¿Cómo se puede explicar que una célula típica de nuestro cuerpo posea unas 10.000 clases\ndiferentes de proteínas si el número de aminoácidos distintos es solamente de 20? Razone la\nrespuesta [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.6.E_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "En relación con la figura adjunta, responda las siguientes preguntas::\na).- ¿Qué representa la\ngráfica I [0,2]. ¿A qué\ntipo de división celular\ncorresponde? [0,2].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.1.F_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Indique la composición y estructura de los distintos tipos de ARN [1]. Explique la función biológica de\ncada uno de ellos [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.2.F_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Indique una función del retículo endoplasmático liso [0,2]. Describa el complejo de Golgi [1] y cite dos\nde sus funciones [0,4]. ¿Qué son los lisosomas y cuál es su función? [0,4].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.3.F_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Defina los términos gen [0,5] y mutación [0,5]. Cite dos agentes mutagénicos [0,5]. Indique el\nsignificado de las mutaciones en la evolución [0,5].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.4.F_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Una de las estrategias para introducir ADN en una célula eucariótica es rodearlo de una bicapa\nlipídica. Exponga razonadamente por qué se facilita así la entrada de ADN a la célula [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.5.F_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "En la fabricación casera de yogur, se mezcla el contenido de parte de un yogur con un litro de leche,\nse agita bien y se distribuye en recipientes que se incuban a 36ºC durante unas 8 horas y\nposteriormente se guardan en el frigorífico hasta su consumo. ¿Por qué se hace así? Razone la\nrespuesta [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.6.F_A",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "En relación con la figura adjunta, en la que se representa un enzima, su sustrato y dos inhibidores,\nconteste las siguientes cuestiones:\na).- Describa qué ocurre\nen los procesos A y\nB [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.1.F_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Indique qué son los lípidos [0,4]. Nombre dos ejemplos de lípidos y cite una función de cada uno de\nellos que desempeñen en los seres vivos [1]. Explique el carácter anfipático de los ácidos grasos\n[0,6].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.2.F_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Defina mitosis [0,3] e indique cuál es su significado biológico [0,3]. ¿En qué tipo de células de un\norganismo pluricelular tiene lugar? [0,2]. Explique sus diferentes fases [1,2]",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.3.F_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "Enumere cinco componentes (células o moléculas) del sistema inmunitario [0,5] e indique la función de\ncada uno de ellos [1,5].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.4.F_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "En la figura 1 se representa un tubo en U cuyas ramas están\nseparadas por una membrana semipermeable. La\nconcentración salina es mayor en la rama B y menor en la A.\nTeniendo esto en cuenta, y una vez que haya transcurrido\ncierto tiempo, ¿cuál de las dos figuras, 2 ó 3, esperaría",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.5.F_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "La replicación del ADN se realiza de forma continua en una cadena y discontinua en la otra. ¿Cuál es\nla razón? [1].",
+      "respuesta_modelo": ""
+    }
+  },
+  {
+    "id": "A.6.F_B",
+    "bloque_oficial": {
+      "codigo": "A",
+      "nombre": "Por clasificar"
+    },
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": [],
+    "origen_historico": [
+      {
+        "comunidad": "Andalucía",
+        "anio": 2008,
+        "convocatoria": "Ordinaria"
+      }
+    ],
+    "metadata": {
+      "nivel_exigencia": "razonada",
+      "tipo_respuesta": "abierta",
+      "enunciado": "En relación con la figura adjunta, responda las siguientes preguntas:\na).- ¿Qué orgánulo representa la figura? [0,25]. ¿En\nqué tipo de células se encuentra? [0,25]. Nombre\nlos componentes o estructuras señalados con\nnúmeros [0,5].",
+      "respuesta_modelo": ""
+    }
+  }
+]
