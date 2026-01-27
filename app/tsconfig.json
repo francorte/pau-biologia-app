@@ -6,7 +6,6 @@
     "module": "ESNext",
     "skipLibCheck": true,
 
-    /* 👇 CLAVE PARA LOS JSON 👇 */
     "resolveJsonModule": true,
     "esModuleInterop": true,
 

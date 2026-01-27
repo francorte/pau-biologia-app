@@ -1,83 +1,140 @@
-// scripts/parsear_preguntas.js
+/**
+ * PARSER ESTABLE DE PREGUNTAS PAU BIOLOGÍA
+ * - Limpia texto de PDF
+ * - Elimina instrucciones y ruido
+ * - Extrae preguntas reales
+ * - Separa enunciado y apartados
+ * - Genera preguntas_raw.json
+ *
+ * Compatible con Node >= 18 (ESM)
+ */
+
 import fs from "fs";
 import path from "path";
 
-const INPUT_TXT = "data/texto_andalucia_2025.txt";
-const OUTPUT_JSON = "data/preguntas_raw.json";
+// =======================
+// CONFIGURACIÓN
+// =======================
 
-// ---------- UTILIDADES ----------
-const limpiar = (t) => {
-  if (!t || typeof t !== "string") return "";
-  return t
-    .replace(/\r/g, "")
-    .replace(/\n+/g, "\n")
-    .replace(/\s+/g, " ")
-    .trim();
-};
+const INPUT_TXT = path.resolve("data/texto_andalucia_2025.txt");
+const OUTPUT_JSON = path.resolve("data/preguntas_raw.json");
 
-// ---------- VALIDACIÓN ----------
-if (!fs.existsSync(INPUT_TXT)) {
-  console.error("❌ No existe el archivo:", INPUT_TXT);
-  process.exit(1);
+// =======================
+// UTILIDADES
+// =======================
+
+function leerTexto() {
+  if (!fs.existsSync(INPUT_TXT)) {
+    throw new Error(`❌ No existe el archivo: ${INPUT_TXT}`);
+  }
+  return fs.readFileSync(INPUT_TXT, "utf8");
 }
 
-const texto = fs.readFileSync(INPUT_TXT, "utf-8");
+function limpiarTexto(texto) {
+  if (!texto || typeof texto !== "string") return "";
 
-// ---------- DIVISIÓN POR PREGUNTAS ----------
-// ⚠️ IMPORTANTE: sin grupos capturadores
-const bloques = texto
-  .split(/Pregunta\s+\d+(?:\.\d+)?/i)
-  .slice(1)
-  .map(b => limpiar(b))
-  .filter(b => b.length > 80);
+  return texto
+    // normalización básica
+    .replace(/\r/g, "")
+    .replace(/[ \t]+/g, " ")
+    // eliminar cabeceras e instrucciones típicas PAU
+    .replace(/PRUEBA DE ACCESO A LA UNIVERSIDAD[\s\S]*?Instrucciones:/gi, "")
+    .replace(/Instrucciones:[\s\S]*?(?=Pregunta\s+\d)/gi, "")
+    .replace(/Duración:[\s\S]*?\n/gi, "")
+    .replace(/De acuerdo con el RD[\s\S]*?\n/gi, "")
+    .replace(/Este examen consta de[\s\S]*?\n/gi, "")
+    .replace(/Los ejercicios del[\s\S]*?\n/gi, "")
+    .replace(/En total se deben responder[\s\S]*?\n/gi, "")
+    .replace(/EJERCICIO\s+\d+[\s\S]*?(?=Pregunta\s+\d)/gi, "")
+    // limpieza final
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
+}
 
-let preguntas = [];
-let contador = 1;
+// =======================
+// PARSER PRINCIPAL
+// =======================
 
-// ---------- PARSEO ----------
-for (const bloque of bloques) {
-  if (!bloque) continue;
+function parsearPreguntas(textoLimpio) {
+  const preguntas = [];
 
-  // Detectar apartados a), b), c)...
-  const partes = bloque.split(/\s([a-e])\)\s+/i);
+  // dividir por "Pregunta X" manteniendo el número
+  const bloques = textoLimpio.split(/Pregunta\s+(\d+(?:\.\d+)?)/i);
 
-  let enunciado = "";
-  let apartados = [];
+  for (let i = 1; i < bloques.length; i += 2) {
+    const numero = bloques[i];
+    const contenido = bloques[i + 1];
 
-  if (partes.length > 1) {
-    enunciado = limpiar(partes[0]);
+    if (!contenido || contenido.length < 30) continue;
 
-    for (let i = 1; i < partes.length; i += 2) {
-      apartados.push({
-        letra: partes[i]?.toLowerCase() || "",
-        texto: limpiar(partes[i + 1])
-      });
+    const texto = contenido.trim();
+
+    // separar enunciado general y apartados
+    const indicePrimerApartado = texto.search(/\b[a-e]\)\s+/i);
+
+    let enunciado = "";
+    let textoApartados = "";
+
+    if (indicePrimerApartado !== -1) {
+      enunciado = texto.slice(0, indicePrimerApartado).trim();
+      textoApartados = texto.slice(indicePrimerApartado);
+    } else {
+      // pregunta sin apartados (rara pero posible)
+      enunciado = texto;
+      textoApartados = "";
     }
-  } else {
-    // Pregunta de desarrollo completa
-    enunciado = limpiar(bloque);
+
+    // extraer apartados
+    const apartados = [];
+    const regexApartados = /([a-e])\)\s*([^a-e]*?)(?=(?:\b[a-e]\)\s)|$)/gis;
+
+    let match;
+    while ((match = regexApartados.exec(textoApartados)) !== null) {
+      const letra = match[1].toLowerCase();
+      const textoApartado = match[2].trim();
+
+      if (textoApartado.length > 5) {
+        apartados.push({
+          letra,
+          texto: textoApartado
+        });
+      }
+    }
+
+    // validación mínima
+    if (!enunciado && apartados.length === 0) continue;
+
+    preguntas.push({
+      numero,
+      enunciado: enunciado || null,
+      apartados
+    });
   }
 
-  if (enunciado.length < 40) continue;
-
-  preguntas.push({
-    id: `PAU_AND_2025_Q${contador}`,
-    bloque: "No especificado",
-    enunciado,
-    apartados
-  });
-
-  contador++;
+  return preguntas;
 }
 
-// ---------- GUARDAR ----------
-fs.writeFileSync(
-  OUTPUT_JSON,
-  JSON.stringify(preguntas, null, 2),
-  "utf-8"
-);
+// =======================
+// EJECUCIÓN
+// =======================
 
-// ---------- LOG ----------
-console.log("✅ Preguntas reales extraídas correctamente");
-console.log("📄 Archivo generado:", path.resolve(OUTPUT_JSON));
-console.log("📊 Total preguntas válidas:", preguntas.length);
+try {
+  const textoOriginal = leerTexto();
+  const textoLimpio = limpiarTexto(textoOriginal);
+  const preguntas = parsearPreguntas(textoLimpio);
+
+  fs.writeFileSync(
+    OUTPUT_JSON,
+    JSON.stringify(preguntas, null, 2),
+    "utf8"
+  );
+
+  console.log("🧹 Texto limpio aplicado");
+  console.log(`🔍 Preguntas detectadas: ${preguntas.length}`);
+  console.log(`💾 Archivo generado: ${OUTPUT_JSON}`);
+
+} catch (error) {
+  console.error("❌ Error en el parser:");
+  console.error(error.message);
+  process.exit(1);
+}
