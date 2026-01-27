@@ -1,0 +1,110 @@
+[
+  {
+    "id": "PAU BIO ANDALUCIA 2008 1",
+    "bloque_oficial": {"codigo": "C", "nombre": "Biología celular"},
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": ["mitocondria", "metabolismo"],
+    "origen_historico": [{"comunidad": "Andalucía", "anio": 2008, "convocatoria": "Ordinaria"}],
+    "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Estructura mitocondrial y energía"}
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 2",
+    "bloque_oficial": {"codigo": "B", "nombre": "Genética molecular"},
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": ["mutaciones", "variabilidad"],
+    "origen_historico": [{"comunidad": "Andalucía", "anio": 2008, "convocatoria": "Ordinaria"}],
+    "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Mutaciones y variabilidad genética"}
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 3",
+    "bloque_oficial": {"codigo": "E", "nombre": "Biotecnología"},
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": ["bacteriófago"],
+    "origen_historico": [{"comunidad": "Andalucía", "anio": 2008, "convocatoria": "Ordinaria"}],
+    "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Bacteriófagos"}
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 4",
+    "bloque_oficial": {"codigo": "C", "nombre": "Biología celular"},
+    "apartados": [],
+    "puntuacion_total": 1,
+    "etiquetas": ["membrana", "transporte"],
+    "origen_historico": [{"comunidad": "Andalucía", "anio": 2008, "convocatoria": "Ordinaria"}],
+    "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Transporte de lípidos vs iones"}
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 5",
+    "bloque_oficial": {"codigo": "C", "nombre": "Biología celular"},
+    "apartados": [],
+    "puntuacion_total": 1,
+    "etiquetas": ["mitosis", "fases"],
+    "origen_historico": [{"comunidad": "Andalucía", "anio": 2008, "convocatoria": "Ordinaria"}],
+    "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Fases de mitosis"}
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 6",
+    "bloque_oficial": {"codigo": "A", "nombre": "Biomoléculas"},
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": ["nucleótidos", "ADN", "ARN"],
+    "origen_historico": [{"comunidad": "Andalucía", "anio": 2008, "convocatoria": "Ordinaria"}],
+    "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Nucleótidos y macromoléculas"}
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 B1",
+    "bloque_oficial": {"codigo": "A", "nombre": "Biomoléculas"},
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": ["proteínas", "estructura"],
+    "origen_historico": [{"comunidad": "Andalucía", "anio": 2008, "convocatoria": "Ordinaria"}],
+    "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Opción B: Estructura de proteínas"}
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 B2",
+    "bloque_oficial": {"codigo": "D", "nombre": "Metabolismo"},
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": ["metabolismo", "localización"],
+    "origen_historico": [{"comunidad": "Andalucía", "anio": 2008, "convocatoria": "Ordinaria"}],
+    "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Opción B: Localización de procesos"}
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 B3",
+    "bloque_oficial": {"codigo": "F", "nombre": "Inmunología"},
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": ["inmunología"],
+    "origen_historico": [{"comunidad": "Andalucía", "anio": 2008, "convocatoria": "Ordinaria"}],
+    "metadata": {"nivel_exigencia": "cerrada", "tipo_respuesta": "cerrada", "observaciones": "Opción B: Definiciones"}
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 B4",
+    "bloque_oficial": {"codigo": "D", "nombre": "Metabolismo"},
+    "apartados": [],
+    "puntuacion_total": 1,
+    "etiquetas": ["energía", "reservas"],
+    "origen_historico": [{"comunidad": "Andalucía", "anio": 2008, "convocatoria": "Ordinaria"}],
+    "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Opción B: Reservas energéticas"}
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 B5",
+    "bloque_oficial": {"codigo": "B", "nombre": "Genética molecular"},
+    "apartados": [],
+    "puntuacion_total": 1,
+    "etiquetas": ["meiosis"],
+    "origen_historico": [{"comunidad": "Andalucía", "anio": 2008, "convocatoria": "Ordinaria"}],
+    "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Opción B: Meiosis"}
+  },
+  {
+    "id": "PAU BIO ANDALUCIA 2008 B6",
+    "bloque_oficial": {"codigo": "C", "nombre": "Biología celular"},
+    "apartados": [],
+    "puntuacion_total": 2,
+    "etiquetas": ["orgánulos"],
+    "origen_historico": [{"comunidad": "Andalucía", "anio": 2008, "convocatoria": "Ordinaria"}],
+    "metadata": {"nivel_exigencia": "razonada", "tipo_respuesta": "abierta", "observaciones": "Opción B: Orgánulos"}
+  }
+]

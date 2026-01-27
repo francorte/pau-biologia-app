@@ -1,0 +1,25 @@
+{
+  "examenes": [
+    {
+      "id": "2008_AND",
+      "comunidad": "Andalucía",
+      "anio": 2008,
+      "convocatoria": "Ordinaria",
+      "archivo": "examenes/andalucia/2008.json"
+    },
+    {
+      "id": "2016_AND",
+      "comunidad": "Andalucía",
+      "anio": 2016,
+      "convocatoria": "Ordinaria",
+      "archivo": "examenes/andalucia/2016.json"
+    },
+    {
+      "id": "2025_AND",
+      "comunidad": "Andalucía",
+      "anio": 2025,
+      "convocatoria": "Ordinaria",
+      "archivo": "examenes/andalucia/2025.json"
+    }
+  ]
+}
